@@ -15,5 +15,5 @@ https://radimrehurek.com/gensim/models/word2vec.html
 ## Arquitetura
 Artigo: https://arxiv.org/pdf/1907.02090.pdf
 
-![Arquitetura utilizando MLE](https://github.com/mgdebayser/machine-learning/tree/master/img/mle-kmeans-dialogues.png)
+![Arquitetura utilizando MLE](/img/mle-kmeans-dialogues.png)
 
