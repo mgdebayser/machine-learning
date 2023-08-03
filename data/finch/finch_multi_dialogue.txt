@@ -1,0 +1,1148 @@
+106|6|PGrCcxikefn3fgZ3AAAN|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+107|6|PGrCcxikefn3fgZ3AAAN|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 3.500 reais durante  3 anos?
+108|6|PGrCcxikefn3fgZ3AAAN|finch-user|R$ 3500,00 por 3 anos
+109|6|PGrCcxikefn3fgZ3AAAN|poupancaGuru|Na Poupanca, se investir R$ 3.500 durante 3 anos, você resgatará entre R$ 4100 e R$ 4200
+110|6|PGrCcxikefn3fgZ3AAAN|cdbGuru|No CDB, se investir R$ 3.500 durante 3 anos, você resgatará entre R$ 4300 e R$ 4400
+111|6|PGrCcxikefn3fgZ3AAAN|tesouroGuru|No Tesouro Direto, se investir R$ 3.500 durante 3 anos, você resgatará entre R$ 4300 e R$ 4400
+112|6|PGrCcxikefn3fgZ3AAAN|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+113|6|PGrCcxikefn3fgZ3AAAN|finch-user|Qual o risco de investir no Tesouro direto?
+114|6|PGrCcxikefn3fgZ3AAAN|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+115|6|PGrCcxikefn3fgZ3AAAN|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+116|6|PGrCcxikefn3fgZ3AAAN|finch-user|não entendi, pode explicar melhor?
+117|6|PGrCcxikefn3fgZ3AAAN|finch-user|R$ 3500,00 3 anos
+118|6|PGrCcxikefn3fgZ3AAAN|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 3.500 reais durante  3 anos?
+119|6|PGrCcxikefn3fgZ3AAAN|poupancaGuru|Na Poupanca, se investir R$ 3.500 durante 3 anos, você resgatará entre R$ 4100 e R$ 4200
+120|6|PGrCcxikefn3fgZ3AAAN|cdbGuru|No CDB, se investir R$ 3.500 durante 3 anos, você resgatará entre R$ 4300 e R$ 4400
+121|6|PGrCcxikefn3fgZ3AAAN|tesouroGuru|No Tesouro Direto, se investir R$ 3.500 durante 3 anos, você resgatará entre R$ 4300 e R$ 4400
+122|6|PGrCcxikefn3fgZ3AAAN|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+123|6|PGrCcxikefn3fgZ3AAAN|finch-user|defina tesouro direto
+124|6|PGrCcxikefn3fgZ3AAAN|tesouroGuru|O Tesouro Direto é um programa de negociação de títulos públicos para pessoas físicas por meio da internet.
+125|6|PGrCcxikefn3fgZ3AAAN|investimentoGuru|A taxa media diária do CDI (CDI Over) é calculada com base nas operações de emissão de certificados de um dia e é sempre próxima da taxa Selic.
+126|6|PGrCcxikefn3fgZ3AAAN|finch-user|como é caulculada a rentabilidade?
+127|6|PGrCcxikefn3fgZ3AAAN|finch-user|como é caulculada a rentabilidade do tesouro?
+128|6|PGrCcxikefn3fgZ3AAAN|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+129|6|PGrCcxikefn3fgZ3AAAN|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+130|6|PGrCcxikefn3fgZ3AAAN|finch-user|como é caulculada a rentabilidade do tesouro direto?
+131|6|PGrCcxikefn3fgZ3AAAN|finch-user|o que é liquidez?
+132|6|PGrCcxikefn3fgZ3AAAN|tesouroGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+133|6|PGrCcxikefn3fgZ3AAAN|finch-user|o que acontece se eu decidir aumentar o tempo de investimento?
+134|6|PGrCcxikefn3fgZ3AAAN|investimentoGuru|Um fundo de investimento é uma forma de aplicação financeira, formada pela união de vários investidores que se juntam para a realização de um investimento financeiro, não possuindo personalidade jurídica e sendo constituído tal qual um condomí...
+135|6|PGrCcxikefn3fgZ3AAAN|finch-user|o que é poupança?
+136|6|PGrCcxikefn3fgZ3AAAN|poupancaGuru|É uma forma de investimento de baixo risco cuja operação é regida por regras do governo.
+137|6|PGrCcxikefn3fgZ3AAAN|finch-user|o que eh o CDB?
+138|6|PGrCcxikefn3fgZ3AAAN|cdbGuru|O CDB (Certificado de Depósito Bancário)  funciona como um empréstimo que você faz ao banco, recebendo uma remuneração em troca.
+139|6|PGrCcxikefn3fgZ3AAAN|finch-user|qual a taxa de rendimento da poupança?
+140|6|PGrCcxikefn3fgZ3AAAN|poupancaGuru|O cálculo da poupança usa a taxa da poupança do dia e aplica progressão aritimética usando o valor inicial do investimento e o período desejado.
+141|6|PGrCcxikefn3fgZ3AAAN|finch-user|pode repetir?
+142|6|PGrCcxikefn3fgZ3AAAN|investimentoGuru|Nossos gurus possuem informações sobre Poupança, CDB e Tesouro Direto.
+143|6|PGrCcxikefn3fgZ3AAAN|finch-user|ok
+144|6|PGrCcxikefn3fgZ3AAAN|investimentoGuru|ok
+145|6|PGrCcxikefn3fgZ3AAAN|finch-user|dinheiro
+146|6|PGrCcxikefn3fgZ3AAAN|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+147|6|PGrCcxikefn3fgZ3AAAN|finch-user|obrigada
+148|6|PGrCcxikefn3fgZ3AAAN|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+165|8|bICgZdpBrb29oviPAAAN|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+166|8|bICgZdpBrb29oviPAAAN|finch-user|R$ 10.000,00 em 5 anos
+167|8|bICgZdpBrb29oviPAAAN|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 10.000 reais durante  5 anos?
+168|8|bICgZdpBrb29oviPAAAN|poupancaGuru|Na Poupanca, se investir R$ 10.000 durante 5 anos, você resgatará entre R$ 13100 e R$ 13800
+169|8|bICgZdpBrb29oviPAAAN|tesouroGuru|No Tesouro Direto, se investir R$ 10.000 durante 5 anos, você resgatará entre R$ 14200 e R$ 15100
+170|8|bICgZdpBrb29oviPAAAN|cdbGuru|No CDB, se investir R$ 10.000 durante 5 anos, você resgatará entre R$ 14100 e R$ 15100
+171|8|bICgZdpBrb29oviPAAAN|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+172|8|bICgZdpBrb29oviPAAAN|finch-user|qual o risco ?
+173|8|bICgZdpBrb29oviPAAAN|investimentoGuru|Para fazer perguntas diretas aos nossos gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru)
+174|8|bICgZdpBrb29oviPAAAN|finch-user|qual o risco? @poupancaGuru cdbGuru, tesouroGuru
+175|8|bICgZdpBrb29oviPAAAN|poupancaGuru|Investimentos na poupança têm cobertura até 250 mil reais pelo Fundo Garantidor de Crédito, ou seja, se você investir até 250 mil, não há nenhum risco.
+176|8|bICgZdpBrb29oviPAAAN|finch-user|qual o risco? @cdbGuru
+177|8|bICgZdpBrb29oviPAAAN|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+178|8|bICgZdpBrb29oviPAAAN|finch-user|qual o risco?@tesouroGuru
+179|8|bICgZdpBrb29oviPAAAN|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+180|8|bICgZdpBrb29oviPAAAN|finch-user|qual a @cdbGuru
+181|8|bICgZdpBrb29oviPAAAN|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+182|8|bICgZdpBrb29oviPAAAN|finch-user|qual a @cdbGuru
+183|8|bICgZdpBrb29oviPAAAN|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+184|8|bICgZdpBrb29oviPAAAN|finch-user|qual a liquidez ? @cdbGuru
+185|8|bICgZdpBrb29oviPAAAN|cdbGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+186|8|bICgZdpBrb29oviPAAAN|finch-user|qual a liquidez ? @tesouroGuru
+187|8|bICgZdpBrb29oviPAAAN|tesouroGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+188|8|bICgZdpBrb29oviPAAAN|finch-user|qual a liquidez ? @poupancaGuru
+189|8|bICgZdpBrb29oviPAAAN|poupancaGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+190|8|bICgZdpBrb29oviPAAAN|finch-user|qual a rentabilidade ? @cdbGuru
+191|8|bICgZdpBrb29oviPAAAN|cdbGuru|Isso varia de acordo com a taxa Selic e o CDI.
+192|8|bICgZdpBrb29oviPAAAN|finch-user|qual a rentabilidade ? @tesouroGuru
+193|8|bICgZdpBrb29oviPAAAN|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+194|8|bICgZdpBrb29oviPAAAN|finch-user|qual a rentabilidade ? @poupancaGuru
+195|8|bICgZdpBrb29oviPAAAN|poupancaGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+196|9|wJ2Dc8H-HLMgXI2dAAAM|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+197|9|wJ2Dc8H-HLMgXI2dAAAM|finch-user|20000.00
+198|9|wJ2Dc8H-HLMgXI2dAAAM|investimentoGuru|Por quanto tempo deseja investir?
+199|9|wJ2Dc8H-HLMgXI2dAAAM|finch-user|2 anos
+200|9|wJ2Dc8H-HLMgXI2dAAAM|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 20.000 reais durante  2 anos?
+201|9|wJ2Dc8H-HLMgXI2dAAAM|tesouroGuru|No Tesouro Direto, se investir R$ 20.000 durante 2 anos, você resgatará entre R$ 22800 e R$ 23400
+202|9|wJ2Dc8H-HLMgXI2dAAAM|cdbGuru|No CDB, se investir R$ 20.000 durante 2 anos, você resgatará entre R$ 22800 e R$ 23400
+203|9|wJ2Dc8H-HLMgXI2dAAAM|poupancaGuru|Na Poupanca, se investir R$ 20.000 durante 2 anos, você resgatará entre R$ 22200 e R$ 22700
+204|9|wJ2Dc8H-HLMgXI2dAAAM|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+205|9|wJ2Dc8H-HLMgXI2dAAAM|finch-user|1200.00
+206|9|wJ2Dc8H-HLMgXI2dAAAM|investimentoGuru|Por quanto tempo deseja investir?
+207|9|wJ2Dc8H-HLMgXI2dAAAM|finch-user|2 anos
+208|9|wJ2Dc8H-HLMgXI2dAAAM|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 1.200 reais durante  2 anos?
+209|9|wJ2Dc8H-HLMgXI2dAAAM|poupancaGuru|Na Poupanca, se investir R$ 1.200 durante 2 anos, você resgatará aproximadamente R$ 1.300
+210|9|wJ2Dc8H-HLMgXI2dAAAM|cdbGuru|No CDB, se investir R$ 1.200 durante 2 anos, você resgatará entre R$ 1300 e R$ 1400
+211|9|wJ2Dc8H-HLMgXI2dAAAM|tesouroGuru|No Tesouro Direto, se investir R$ 1.200 durante 2 anos, você resgatará entre R$ 1300 e R$ 1400
+212|9|wJ2Dc8H-HLMgXI2dAAAM|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+213|9|wJ2Dc8H-HLMgXI2dAAAM|finch-user|O que é CDB
+214|9|wJ2Dc8H-HLMgXI2dAAAM|cdbGuru|O CDB (Certificado de Depósito Bancário)  funciona como um empréstimo que você faz ao banco, recebendo uma remuneração em troca.
+215|9|wJ2Dc8H-HLMgXI2dAAAM|finch-user|CDB vale a pena?
+216|9|wJ2Dc8H-HLMgXI2dAAAM|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+217|9|wJ2Dc8H-HLMgXI2dAAAM|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+218|9|wJ2Dc8H-HLMgXI2dAAAM|finch-user|CDB vale compensa?
+219|9|wJ2Dc8H-HLMgXI2dAAAM|finch-user|CDB compensa?
+220|9|wJ2Dc8H-HLMgXI2dAAAM|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+221|9|wJ2Dc8H-HLMgXI2dAAAM|finch-user|Compensa investir no CDB?
+222|9|wJ2Dc8H-HLMgXI2dAAAM|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+223|9|wJ2Dc8H-HLMgXI2dAAAM|finch-user|Qual a forma mais confiável de investimento?
+224|9|wJ2Dc8H-HLMgXI2dAAAM|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+225|9|wJ2Dc8H-HLMgXI2dAAAM|finch-user|Obrigado
+226|9|wJ2Dc8H-HLMgXI2dAAAM|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+264|11|-8yt_-VnDxzlUbh-AAAO|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+265|11|-8yt_-VnDxzlUbh-AAAO|finch-user|15000.00
+266|11|-8yt_-VnDxzlUbh-AAAO|investimentoGuru|Por quanto tempo deseja investir?
+267|11|-8yt_-VnDxzlUbh-AAAO|finch-user|5 anos
+268|11|-8yt_-VnDxzlUbh-AAAO|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 15.000 reais durante  5 anos?
+269|11|-8yt_-VnDxzlUbh-AAAO|investimentoGuru|No CDB, se investir R$ 15.000 durante 5 anos, você resgatará entre R$ 21200 e R$ 22600
+270|11|-8yt_-VnDxzlUbh-AAAO|investimentoGuru|No Tesouro Direto, se investir R$ 15.000 durante 5 anos, você resgatará entre R$ 21300 e R$ 22700
+271|11|-8yt_-VnDxzlUbh-AAAO|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto rende mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+272|11|-8yt_-VnDxzlUbh-AAAO|finch-user|e se eu precisar do dinheiro antes?
+273|11|-8yt_-VnDxzlUbh-AAAO|investimentoGuru|É uma taxa que é emitida diariamente para lastrear operações de curto prazo entre os bancos.
+274|11|-8yt_-VnDxzlUbh-AAAO|finch-user|ok, mas eu perco dinheiro? Nesse caso seria melhor a poupança?
+275|11|-8yt_-VnDxzlUbh-AAAO|poupancaGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+276|11|-8yt_-VnDxzlUbh-AAAO|finch-user|obrigado
+277|11|-8yt_-VnDxzlUbh-AAAO|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+278|12|UQCzyivcfVbva-iOAAAL|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+279|12|UQCzyivcfVbva-iOAAAL|finch-user|R$ 40000 por 2 anos
+280|12|UQCzyivcfVbva-iOAAAL|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 40.000 reais durante  2 anos?
+281|12|UQCzyivcfVbva-iOAAAL|poupancaGuru|Na Poupanca, se investir R$ 40.000 durante 2 anos, você resgatará entre R$ 44500 e R$ 45500
+282|12|UQCzyivcfVbva-iOAAAL|tesouroGuru|No Tesouro Direto, se investir R$ 40.000 durante 2 anos, você resgatará entre R$ 45600 e R$ 46900
+283|12|UQCzyivcfVbva-iOAAAL|cdbGuru|No CDB, se investir R$ 40.000 durante 2 anos, você resgatará entre R$ 45600 e R$ 46900
+284|12|UQCzyivcfVbva-iOAAAL|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+285|12|UQCzyivcfVbva-iOAAAL|finch-user|Entre os dois mais rentáveis, qual é o de menor risco?
+286|12|UQCzyivcfVbva-iOAAAL|investimentoGuru|A principal diferença é que a poupança não possui taxas e o CDB geralmente rende mais.
+287|12|UQCzyivcfVbva-iOAAAL|finch-user|Eu perguntei sobre o risco entre CDB e Tesouro Direto
+288|12|UQCzyivcfVbva-iOAAAL|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+289|12|UQCzyivcfVbva-iOAAAL|finch-user|CDB é mais seguro que Tesouro Direto?
+290|12|UQCzyivcfVbva-iOAAAL|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+291|12|UQCzyivcfVbva-iOAAAL|finch-user|Qual o risco do Tesouro Direto?
+292|12|UQCzyivcfVbva-iOAAAL|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+293|12|UQCzyivcfVbva-iOAAAL|finch-user|Ok. Então quero aplicar em CDB
+294|12|UQCzyivcfVbva-iOAAAL|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+295|12|UQCzyivcfVbva-iOAAAL|finch-user|Não tenho mais perguntas
+296|12|UQCzyivcfVbva-iOAAAL|investimentoGuru|Você pode fazer perguntas sobre investimentos para os nossos Gurus. Para fazer perguntas diretas aos Gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru).
+297|13|tB3sidsZd14ERm6lAAAS|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+298|13|tB3sidsZd14ERm6lAAAS|finch-user|1000 12 meses
+299|13|tB3sidsZd14ERm6lAAAS|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 1.000 reais durante  12 meses?
+300|13|tB3sidsZd14ERm6lAAAS|cdbGuru|No CDB, se investir R$ 1.000 durante 12 meses, você resgatará entre R$ 1060 e R$ 1080
+301|13|tB3sidsZd14ERm6lAAAS|tesouroGuru|No Tesouro Direto, se investir R$ 1.000 durante 12 meses, você resgatará entre R$ 1060 e R$ 1080
+302|13|tB3sidsZd14ERm6lAAAS|poupancaGuru|Na Poupanca, se investir R$ 1.000 durante 12 meses, você resgatará entre R$ 1050 e R$ 1060
+303|13|tB3sidsZd14ERm6lAAAS|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+304|13|tB3sidsZd14ERm6lAAAS|finch-user|Quanto devo investir em CDB para ter 5000 reais
+305|13|tB3sidsZd14ERm6lAAAS|cdbGuru|Por quanto tempo deseja investir?
+306|13|tB3sidsZd14ERm6lAAAS|finch-user|12 meses
+307|13|tB3sidsZd14ERm6lAAAS|investimentoGuru|Qual valor?
+308|13|tB3sidsZd14ERm6lAAAS|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+309|13|tB3sidsZd14ERm6lAAAS|finch-user|500 reais por mês
+310|13|tB3sidsZd14ERm6lAAAS|finch-user|2000.00
+311|13|tB3sidsZd14ERm6lAAAS|investimentoGuru|Por quanto tempo deseja investir?
+312|13|tB3sidsZd14ERm6lAAAS|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 2.000 reais durante  5 meses?
+313|13|tB3sidsZd14ERm6lAAAS|finch-user|5 meses
+314|13|tB3sidsZd14ERm6lAAAS|poupancaGuru|Na Poupanca, se investir R$ 2.000 durante 5 meses, você resgatará entre R$ 2040 e R$ 2050
+315|13|tB3sidsZd14ERm6lAAAS|cdbGuru|No CDB, se investir R$ 2.000 durante 5 meses, você resgatará entre R$ 2050 e R$ 2060
+316|13|tB3sidsZd14ERm6lAAAS|tesouroGuru|No Tesouro Direto, se investir R$ 2.000 durante 5 meses, você resgatará entre R$ 2050 e R$ 2060
+317|13|tB3sidsZd14ERm6lAAAS|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+318|13|tB3sidsZd14ERm6lAAAS|finch-user|entendi
+319|13|tB3sidsZd14ERm6lAAAS|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+320|13|tB3sidsZd14ERm6lAAAS|finch-user|qual é o melhor investimento?
+321|13|tB3sidsZd14ERm6lAAAS|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+322|13|tB3sidsZd14ERm6lAAAS|finch-user|já disse
+323|13|tB3sidsZd14ERm6lAAAS|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+324|13|tB3sidsZd14ERm6lAAAS|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+325|13|tB3sidsZd14ERm6lAAAS|finch-user|quais os tipos de investimento vc aconselha para uma reda de 5000 reais mensais
+326|13|tB3sidsZd14ERm6lAAAS|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+327|13|tB3sidsZd14ERm6lAAAS|finch-user|obrigada
+391|15|hzsrkMLcRQrRMdRCAAAM|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+392|15|hzsrkMLcRQrRMdRCAAAM|finch-user|10000 em 2 anos
+393|15|hzsrkMLcRQrRMdRCAAAM|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 10.000 reais durante  2 anos?
+394|15|hzsrkMLcRQrRMdRCAAAM|poupancaGuru|Na Poupanca, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11100 e R$ 11300
+395|15|hzsrkMLcRQrRMdRCAAAM|cdbGuru|No CDB, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11400 e R$ 11700
+396|15|hzsrkMLcRQrRMdRCAAAM|tesouroGuru|No Tesouro Direto, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11400 e R$ 11700
+397|15|hzsrkMLcRQrRMdRCAAAM|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+398|15|hzsrkMLcRQrRMdRCAAAM|finch-user|qual é o risco do investimento no tesouro direto?
+399|15|hzsrkMLcRQrRMdRCAAAM|finch-user|o que é fundo garantidor de crédito?
+400|15|hzsrkMLcRQrRMdRCAAAM|tesouroGuru|O Fundo Garantidor de Créditos (FGC) é uma entidade que proteje o investidor em caso de intervenção, de liquidação ou de falência deu uma instituição financeira.
+401|15|hzsrkMLcRQrRMdRCAAAM|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+402|15|hzsrkMLcRQrRMdRCAAAM|finch-user|obrigada
+432|17|XGgicXc9UwAdsSQFAAAQ|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+433|17|XGgicXc9UwAdsSQFAAAQ|finch-user|10.000, 2 anos
+434|17|XGgicXc9UwAdsSQFAAAQ|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 10.000 reais durante  2 anos?
+435|17|XGgicXc9UwAdsSQFAAAQ|poupancaGuru|Na Poupanca, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11100 e R$ 11300
+436|17|XGgicXc9UwAdsSQFAAAQ|cdbGuru|No CDB, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11400 e R$ 11700
+437|17|XGgicXc9UwAdsSQFAAAQ|tesouroGuru|No Tesouro Direto, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11400 e R$ 11700
+438|17|XGgicXc9UwAdsSQFAAAQ|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+439|17|XGgicXc9UwAdsSQFAAAQ|finch-user|Quais os riscos de cada uma das alternativas?
+440|17|XGgicXc9UwAdsSQFAAAQ|investimentoGuru|Para fazer perguntas diretas aos nossos gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru)
+441|17|XGgicXc9UwAdsSQFAAAQ|finch-user|@poupancaGuru qual o meu risco?
+442|17|XGgicXc9UwAdsSQFAAAQ|poupancaGuru|Investimentos na poupança têm cobertura até 250 mil reais pelo Fundo Garantidor de Crédito, ou seja, se você investir até 250 mil, não há nenhum risco.
+443|17|XGgicXc9UwAdsSQFAAAQ|finch-user|@cdbGuru qual o meu risco?
+444|17|XGgicXc9UwAdsSQFAAAQ|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+445|17|XGgicXc9UwAdsSQFAAAQ|finch-user|@tesouroGuru qual o meu risco?
+446|17|XGgicXc9UwAdsSQFAAAQ|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+447|17|XGgicXc9UwAdsSQFAAAQ|finch-user|Estou em dúvida entre CBD e TD.
+448|17|XGgicXc9UwAdsSQFAAAQ|investimentoGuru|Você pode fazer perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+449|17|XGgicXc9UwAdsSQFAAAQ|finch-user|@cdbGuru CDB é mais rentável que TD?
+450|17|XGgicXc9UwAdsSQFAAAQ|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+451|17|XGgicXc9UwAdsSQFAAAQ|finch-user|@cdbGuru CDB seria melhor que TD?
+452|17|XGgicXc9UwAdsSQFAAAQ|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+453|17|XGgicXc9UwAdsSQFAAAQ|finch-user|@tesouroGuru TD seria melhor que CDB?
+454|17|XGgicXc9UwAdsSQFAAAQ|tesouroGuru|O Tesouro Selic é mais rentável que CDBs que possuem rentabilidade menor que 100% do CDI.
+455|17|XGgicXc9UwAdsSQFAAAQ|finch-user|@cdbGuru se eu investir 20.000 por 5 anos, qual será meu rendimento?
+456|17|XGgicXc9UwAdsSQFAAAQ|cdbGuru|No CDB, se investir R$ 20.000 durante 5 anos, você resgatará entre R$ 28300 e R$ 30200
+457|17|XGgicXc9UwAdsSQFAAAQ|finch-user|@tesouroGuru se eu investir R$ 20.000 durante 5 anos, qual será meu rendimento?
+458|17|XGgicXc9UwAdsSQFAAAQ|tesouroGuru|No Tesouro Direto, se investir R$ 20.000 durante 5 anos, você resgatará entre R$ 28400 e R$ 30300
+459|17|XGgicXc9UwAdsSQFAAAQ|finch-user|@cdbGuru existe taxa de administração?
+460|17|XGgicXc9UwAdsSQFAAAQ|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+461|17|XGgicXc9UwAdsSQFAAAQ|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+462|17|XGgicXc9UwAdsSQFAAAQ|finch-user|@cdbGuru qual a taxa de administração?
+463|17|XGgicXc9UwAdsSQFAAAQ|finch-user|@tesouroGuru qual a taxa de administração?
+464|17|XGgicXc9UwAdsSQFAAAQ|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+465|17|XGgicXc9UwAdsSQFAAAQ|finch-user|@cdbGuru o que é CDB?
+466|17|XGgicXc9UwAdsSQFAAAQ|cdbGuru|O CDB (Certificado de Depósito Bancário)  funciona como um empréstimo que você faz ao banco, recebendo uma remuneração em troca.
+467|17|XGgicXc9UwAdsSQFAAAQ|finch-user|@tesouroGuru o que é tesouro diretor?
+468|17|XGgicXc9UwAdsSQFAAAQ|tesouroGuru|O Tesouro Direto é um programa de negociação de títulos públicos para pessoas físicas por meio da internet.
+469|17|XGgicXc9UwAdsSQFAAAQ|finch-user|ok, acredito que consegui definir como fazer meu investimento.
+470|17|XGgicXc9UwAdsSQFAAAQ|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+471|17|XGgicXc9UwAdsSQFAAAQ|finch-user|Obrigada!
+485|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+486|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|15000, 2 anos
+487|19|CLVIdnCuY6iFKIO7AAAQ|tesouroGuru|No Tesouro Direto, se investir R$ 15.000 durante 2 anos, você resgatará entre R$ 17100 e R$ 17600
+488|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 15.000 reais durante  2 anos?
+489|19|CLVIdnCuY6iFKIO7AAAQ|poupancaGuru|Na Poupanca, se investir R$ 15.000 durante 2 anos, você resgatará entre R$ 16700 e R$ 17000
+490|19|CLVIdnCuY6iFKIO7AAAQ|cdbGuru|No CDB, se investir R$ 15.000 durante 2 anos, você resgatará entre R$ 17100 e R$ 17600
+491|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+492|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|porque eu utilizaria CDB se o ganho é pouco e a burocracia é alta?
+493|19|CLVIdnCuY6iFKIO7AAAQ|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+494|19|CLVIdnCuY6iFKIO7AAAQ|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+495|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|quais os riscos do cdb?
+496|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|fundo garantidor de crédito?
+497|19|CLVIdnCuY6iFKIO7AAAQ|cdbGuru|O Fundo Garantidor de Créditos (FGC) é uma entidade que protege o investidor em caso de intervenção, de liquidação ou de falência deu uma instituição financeira.
+498|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|e se eu quiser sacar antes de 2 anos?
+499|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|Qual valor?
+500|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|total
+501|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|todo o valor
+502|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+503|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|sacar todo o valor do cdb
+504|19|CLVIdnCuY6iFKIO7AAAQ|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+505|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|sacar do cdb antes do prazo
+506|19|CLVIdnCuY6iFKIO7AAAQ|cdbGuru|Aplicando no CDB, você acorda com o banco o tempo de investimento. Você pode retirar o dinheiro a qualquer momento, mas poderá pagar uma taxa mais alta se não respeitar o acordo.
+507|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|sacar antes do prazo
+508|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|É uma taxa que é emitida diariamente para lastrear operações de curto prazo entre os bancos.
+509|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|qual investimento é melhor para sacar antes do prazo?
+510|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|15000 em 2 anos
+511|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 15.000 reais durante  2 anos?
+512|19|CLVIdnCuY6iFKIO7AAAQ|poupancaGuru|Na Poupanca, se investir R$ 15.000 durante 2 anos, você resgatará entre R$ 16700 e R$ 17000
+513|19|CLVIdnCuY6iFKIO7AAAQ|cdbGuru|No CDB, se investir R$ 15.000 durante 2 anos, você resgatará entre R$ 17100 e R$ 17600
+514|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+515|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+516|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|qual investimento rende mais?
+517|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|15000 em 2 anos
+518|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 15.000 reais durante  2 anos?
+519|19|CLVIdnCuY6iFKIO7AAAQ|tesouroGuru|No Tesouro Direto, se investir R$ 15.000 durante 2 anos, você resgatará entre R$ 17100 e R$ 17600
+520|19|CLVIdnCuY6iFKIO7AAAQ|cdbGuru|No CDB, se investir R$ 15.000 durante 2 anos, você resgatará entre R$ 17100 e R$ 17600
+521|19|CLVIdnCuY6iFKIO7AAAQ|poupancaGuru|Na Poupanca, se investir R$ 15.000 durante 2 anos, você resgatará entre R$ 16700 e R$ 17000
+522|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+523|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|qual o melhor investimento para imprevistos?
+524|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+525|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|15000, 2 anos
+526|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 15.000 reais durante  2 anos?
+527|19|CLVIdnCuY6iFKIO7AAAQ|poupancaGuru|Na Poupanca, se investir R$ 15.000 durante 2 anos, você resgatará entre R$ 16700 e R$ 17000
+528|19|CLVIdnCuY6iFKIO7AAAQ|tesouroGuru|No Tesouro Direto, se investir R$ 15.000 durante 2 anos, você resgatará entre R$ 17100 e R$ 17600
+529|19|CLVIdnCuY6iFKIO7AAAQ|cdbGuru|No CDB, se investir R$ 15.000 durante 2 anos, você resgatará entre R$ 17100 e R$ 17600
+530|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+531|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|liquidez
+532|19|CLVIdnCuY6iFKIO7AAAQ|investimentoGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+533|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|qual a liquidez da poupança?
+534|19|CLVIdnCuY6iFKIO7AAAQ|poupancaGuru|A poupança possui liquidez alta pois não há prazo mínimo para resgate.
+535|19|CLVIdnCuY6iFKIO7AAAQ|finch-user|qual a melhor liquidez?
+536|19|CLVIdnCuY6iFKIO7AAAQ|poupancaGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+624|23|s_-gTGYGU6YUgIvVAAAb|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+625|23|s_-gTGYGU6YUgIvVAAAb|finch-user|100000.00
+626|23|s_-gTGYGU6YUgIvVAAAb|investimentoGuru|Por quanto tempo deseja investir?
+627|23|s_-gTGYGU6YUgIvVAAAb|finch-user|seis meses
+628|23|s_-gTGYGU6YUgIvVAAAb|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 100.000 reais durante  6 meses?
+629|23|s_-gTGYGU6YUgIvVAAAb|cdbGuru|No CDB, se investir R$ 100.000 durante 6 meses, você resgatará entre R$ 103100 e R$ 103800
+630|23|s_-gTGYGU6YUgIvVAAAb|tesouroGuru|No Tesouro Direto, se investir R$ 100.000 durante 6 meses, você resgatará entre R$ 103100 e R$ 103800
+631|23|s_-gTGYGU6YUgIvVAAAb|poupancaGuru|Na Poupanca, se investir R$ 100.000 durante 6 meses, você resgatará entre R$ 102700 e R$ 103300
+632|23|s_-gTGYGU6YUgIvVAAAb|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+633|23|s_-gTGYGU6YUgIvVAAAb|finch-user|obrigado
+634|23|s_-gTGYGU6YUgIvVAAAb|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+635|24|ZEm3TzR1BvLG6rRbAAAW|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+636|24|ZEm3TzR1BvLG6rRbAAAW|finch-user|Investir 10.000 ao prazo de 5 anos
+637|24|ZEm3TzR1BvLG6rRbAAAW|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 10.000 reais durante  5 anos?
+638|24|ZEm3TzR1BvLG6rRbAAAW|cdbGuru|No CDB, se investir R$ 10.000 durante 5 anos, você resgatará entre R$ 14100 e R$ 15100
+639|24|ZEm3TzR1BvLG6rRbAAAW|poupancaGuru|Na Poupanca, se investir R$ 10.000 durante 5 anos, você resgatará entre R$ 13100 e R$ 13800
+640|24|ZEm3TzR1BvLG6rRbAAAW|tesouroGuru|No Tesouro Direto, se investir R$ 10.000 durante 5 anos, você resgatará entre R$ 14200 e R$ 15100
+641|24|ZEm3TzR1BvLG6rRbAAAW|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+642|24|ZEm3TzR1BvLG6rRbAAAW|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+643|24|ZEm3TzR1BvLG6rRbAAAW|finch-user|Qual o risco no Tesouro Diret
+644|24|ZEm3TzR1BvLG6rRbAAAW|finch-user|E no CDB?
+645|24|ZEm3TzR1BvLG6rRbAAAW|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+646|24|ZEm3TzR1BvLG6rRbAAAW|finch-user|E o risco do CDB
+647|24|ZEm3TzR1BvLG6rRbAAAW|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+648|24|ZEm3TzR1BvLG6rRbAAAW|cdbGuru|O CDB (Certificado de Depósito Bancário)  funciona como um empréstimo que você faz ao banco, recebendo uma remuneração em troca.
+649|24|ZEm3TzR1BvLG6rRbAAAW|finch-user|O que é o CDB?
+650|24|ZEm3TzR1BvLG6rRbAAAW|finch-user|O que é liquidez?
+651|24|ZEm3TzR1BvLG6rRbAAAW|cdbGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+652|24|ZEm3TzR1BvLG6rRbAAAW|finch-user|qual a liquidez da poupança?
+653|24|ZEm3TzR1BvLG6rRbAAAW|poupancaGuru|A poupança possui liquidez alta pois não há prazo mínimo para resgate.
+654|24|ZEm3TzR1BvLG6rRbAAAW|finch-user|E a liquidez do CDB?
+655|24|ZEm3TzR1BvLG6rRbAAAW|cdbGuru|Aplicando no CDB, você acorda com o banco o tempo de investimento. Você pode retirar o dinheiro a qualquer momento, mas poderá pagar uma taxa mais alta se não respeitar o acordo.
+656|24|ZEm3TzR1BvLG6rRbAAAW|finch-user|Obrigado
+657|24|ZEm3TzR1BvLG6rRbAAAW|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+658|24|ZEm3TzR1BvLG6rRbAAAW|finch-user|Tchau
+659|24|ZEm3TzR1BvLG6rRbAAAW|investimentoGuru|Até logo. Espero ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+660|24|ZEm3TzR1BvLG6rRbAAAW|finch-user|Bye bye
+661|24|ZEm3TzR1BvLG6rRbAAAW|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+662|25|4TBU4ENiymfh-GKqAAAt|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+663|25|4TBU4ENiymfh-GKqAAAt|finch-user|400.00
+664|25|4TBU4ENiymfh-GKqAAAt|investimentoGuru|Por quanto tempo deseja investir?
+665|25|4TBU4ENiymfh-GKqAAAt|finch-user|2.00
+666|25|4TBU4ENiymfh-GKqAAAt|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+667|25|4TBU4ENiymfh-GKqAAAt|finch-user|2 anos
+668|25|4TBU4ENiymfh-GKqAAAt|investimentoGuru|Qual valor?
+669|25|4TBU4ENiymfh-GKqAAAt|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 300 reais durante  2 anos?
+670|25|4TBU4ENiymfh-GKqAAAt|finch-user|300.00
+671|25|4TBU4ENiymfh-GKqAAAt|cdbGuru|No CDB, se investir R$ 300 durante 2 anos, você resgatará entre R$ 340 e R$ 350
+672|25|4TBU4ENiymfh-GKqAAAt|poupancaGuru|Na Poupanca, se investir R$ 300 durante 2 anos, você resgatará entre R$ 330 e R$ 340
+673|25|4TBU4ENiymfh-GKqAAAt|tesouroGuru|No Tesouro Direto, se investir R$ 300 durante 2 anos, você resgatará entre R$ 340 e R$ 350
+674|25|4TBU4ENiymfh-GKqAAAt|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+675|25|4TBU4ENiymfh-GKqAAAt|finch-user|@poupancaGuru liquidez
+676|25|4TBU4ENiymfh-GKqAAAt|poupancaGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+677|25|4TBU4ENiymfh-GKqAAAt|finch-user|@poupancaGuru o que é liquidez?
+678|25|4TBU4ENiymfh-GKqAAAt|poupancaGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+679|26|7F9zzTwYMyT5-KGXAAAR|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+680|26|7F9zzTwYMyT5-KGXAAAR|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 15.000 reais durante  15 anos?
+681|26|7F9zzTwYMyT5-KGXAAAR|finch-user|R$ 15.000 15 anos
+682|26|7F9zzTwYMyT5-KGXAAAR|poupancaGuru|Na Poupanca, se investir R$ 15.000 durante 15 anos, você resgatará entre R$ 34600 e R$ 38900
+683|26|7F9zzTwYMyT5-KGXAAAR|tesouroGuru|No Tesouro Direto, se investir R$ 15.000 durante 15 anos, você resgatará entre R$ 46400 e R$ 53400
+684|26|7F9zzTwYMyT5-KGXAAAR|cdbGuru|No CDB, se investir R$ 15.000 durante 15 anos, você resgatará entre R$ 46100 e R$ 53000
+685|26|7F9zzTwYMyT5-KGXAAAR|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto rende mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+686|26|7F9zzTwYMyT5-KGXAAAR|finch-user|Qual é a liquidez do tesouro direto?
+687|26|7F9zzTwYMyT5-KGXAAAR|tesouroGuru|O Tesouro direto permite que você venda os títulos antes da data de vencimento, o próprio governo que compra os títulos.
+688|26|7F9zzTwYMyT5-KGXAAAR|finch-user|E o que eu perco ao vender antes?
+689|26|7F9zzTwYMyT5-KGXAAAR|finch-user|Há alguma perda se eu vender títulos do tesouro antes do prazo?
+690|26|7F9zzTwYMyT5-KGXAAAR|tesouroGuru|Ao vender antes do prazo, o investidor receberá o preço de mercado pelos títulos públicos.
+691|26|7F9zzTwYMyT5-KGXAAAR|finch-user|Que impostos eu pago no tesouro direto?
+692|26|7F9zzTwYMyT5-KGXAAAR|tesouroGuru|Os custos do Tesouro direto são: taxa de custódia, taxa das instituições financeiras, imposto de renda e em alguns casos IOF.
+693|26|7F9zzTwYMyT5-KGXAAAR|finch-user|qual é o percentual do imposto de renda?
+694|26|7F9zzTwYMyT5-KGXAAAR|tesouroGuru|A alíquota do IR é de 22,5% do lucro para investimentos de até 180 dias; 20% para 181 a 360 dias; 17,5% para 361 a 720 dias e 15% para investimentos de 721 dias ou mais.
+695|26|7F9zzTwYMyT5-KGXAAAR|finch-user|E qual é o percentual de imposto no CDB?
+696|26|7F9zzTwYMyT5-KGXAAAR|cdbGuru|Para aplicações em CDB paga-se imposto de renda, que varia de 22,5% a 15%, conforme o prazo, e IOF em caso de retirada em prazo menor que 30 dias.
+697|26|7F9zzTwYMyT5-KGXAAAR|finch-user|Qual é o risco do tesouro direto?
+698|26|7F9zzTwYMyT5-KGXAAAR|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+699|26|7F9zzTwYMyT5-KGXAAAR|finch-user|E o risco do CDB?
+700|26|7F9zzTwYMyT5-KGXAAAR|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+701|26|7F9zzTwYMyT5-KGXAAAR|finch-user|ok, acho que vou optar pelo CDB
+702|26|7F9zzTwYMyT5-KGXAAAR|cdbGuru|O CDB (Certificado de Depósito Bancário)  funciona como um empréstimo que você faz ao banco, recebendo uma remuneração em troca.
+703|26|7F9zzTwYMyT5-KGXAAAR|finch-user|Você pode efetivar a transação? R$ 15 mil no CDB
+704|26|7F9zzTwYMyT5-KGXAAAR|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+705|26|7F9zzTwYMyT5-KGXAAAR|finch-user|Quero aplicar R$ 15 mil no CDB
+706|26|7F9zzTwYMyT5-KGXAAAR|investimentoGuru|Por quanto tempo deseja investir?
+707|26|7F9zzTwYMyT5-KGXAAAR|cdbGuru|Aplicando no CDB, você acorda com o banco o tempo de investimento. Você pode retirar o dinheiro a qualquer momento, mas poderá pagar uma taxa mais alta se não respeitar o acordo.
+708|26|7F9zzTwYMyT5-KGXAAAR|finch-user|ok, obrigada pelas informaçes
+709|26|7F9zzTwYMyT5-KGXAAAR|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+723|28|NYfK4iEXUrep0Y4cAAAy|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+724|28|NYfK4iEXUrep0Y4cAAAy|finch-user|valor é R$4500 e o prazo é 2 anos
+725|28|NYfK4iEXUrep0Y4cAAAy|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 4.500 reais durante  2 anos?
+726|28|NYfK4iEXUrep0Y4cAAAy|poupancaGuru|Na Poupanca, se investir R$ 4.500 durante 2 anos, você resgatará entre R$ 5000 e R$ 5100
+727|28|NYfK4iEXUrep0Y4cAAAy|cdbGuru|No CDB, se investir R$ 4.500 durante 2 anos, você resgatará entre R$ 5100 e R$ 5200
+728|28|NYfK4iEXUrep0Y4cAAAy|tesouroGuru|No Tesouro Direto, se investir R$ 4.500 durante 2 anos, você resgatará entre R$ 5100 e R$ 5200
+729|28|NYfK4iEXUrep0Y4cAAAy|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+730|28|NYfK4iEXUrep0Y4cAAAy|finch-user|Qual o menor risco? Investir no Tesouro Direto ou no CDB?
+731|28|NYfK4iEXUrep0Y4cAAAy|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+732|28|NYfK4iEXUrep0Y4cAAAy|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+733|28|NYfK4iEXUrep0Y4cAAAy|finch-user|Qual o risco de investir no Tesouro Direto?
+734|28|NYfK4iEXUrep0Y4cAAAy|finch-user|Gostaria de investir no CDB.
+735|28|NYfK4iEXUrep0Y4cAAAy|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+736|28|NYfK4iEXUrep0Y4cAAAy|finch-user|gostaria de investir R$10.000 por 2 anos
+737|28|NYfK4iEXUrep0Y4cAAAy|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 10.000 reais durante  2 anos?
+738|28|NYfK4iEXUrep0Y4cAAAy|tesouroGuru|No Tesouro Direto, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11400 e R$ 11700
+739|28|NYfK4iEXUrep0Y4cAAAy|cdbGuru|No CDB, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11400 e R$ 11700
+740|28|NYfK4iEXUrep0Y4cAAAy|poupancaGuru|Na Poupanca, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11100 e R$ 11300
+741|28|NYfK4iEXUrep0Y4cAAAy|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+742|28|NYfK4iEXUrep0Y4cAAAy|finch-user|OK. Obrigado.
+743|28|NYfK4iEXUrep0Y4cAAAy|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+783|30|ZV_11OvCqT7Er8YVAAAZ|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+784|30|ZV_11OvCqT7Er8YVAAAZ|finch-user|15.000,00  18 meses
+785|30|ZV_11OvCqT7Er8YVAAAZ|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 15.000 reais durante  18 meses?
+786|30|ZV_11OvCqT7Er8YVAAAZ|poupancaGuru|Na Poupanca, se investir R$ 15.000 durante 18 meses, você resgatará entre R$ 16200 e R$ 16500
+787|30|ZV_11OvCqT7Er8YVAAAZ|tesouroGuru|No Tesouro Direto, se investir R$ 15.000 durante 18 meses, você resgatará entre R$ 16500 e R$ 16900
+788|30|ZV_11OvCqT7Er8YVAAAZ|cdbGuru|No CDB, se investir R$ 15.000 durante 18 meses, você resgatará entre R$ 16500 e R$ 16900
+789|30|ZV_11OvCqT7Er8YVAAAZ|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+790|30|ZV_11OvCqT7Er8YVAAAZ|finch-user|taxa de administração
+791|30|ZV_11OvCqT7Er8YVAAAZ|investimentoGuru|É uma taxa que é emitida diariamente para lastrear operações de curto prazo entre os bancos.
+792|30|ZV_11OvCqT7Er8YVAAAZ|finch-user|valor de imposto sobre operaçes financeiras em cada modalidade de investimento
+793|30|ZV_11OvCqT7Er8YVAAAZ|investimentoGuru|Para fazer perguntas diretas aos nossos gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru)
+794|30|ZV_11OvCqT7Er8YVAAAZ|finch-user|@cdbGuru . qual o valor do imposto pago no resgate da aplicação
+795|30|ZV_11OvCqT7Er8YVAAAZ|cdbGuru|Para aplicações em CDB paga-se imposto de renda, que varia de 22,5% a 15%, conforme o prazo, e IOF em caso de retirada em prazo menor que 30 dias.
+796|30|ZV_11OvCqT7Er8YVAAAZ|finch-user|@tesouroGuru o valor do imposto pago no resgate da aplicação
+797|30|ZV_11OvCqT7Er8YVAAAZ|tesouroGuru|Os custos do Tesouro direto são: taxa de custódia, taxa das instituições financeiras, imposto de renda e em alguns casos IOF.
+798|30|ZV_11OvCqT7Er8YVAAAZ|finch-user|@investimentoGuru Qual a melhor aplicação?
+799|30|ZV_11OvCqT7Er8YVAAAZ|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+800|30|ZV_11OvCqT7Er8YVAAAZ|finch-user|@investimentoGuru Qual a melhor aplicação para 15.000,00 por 18 meses?
+801|30|ZV_11OvCqT7Er8YVAAAZ|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 15.000 reais durante  18 meses?
+802|30|ZV_11OvCqT7Er8YVAAAZ|poupancaGuru|Na Poupanca, se investir R$ 15.000 durante 18 meses, você resgatará entre R$ 16200 e R$ 16500
+803|30|ZV_11OvCqT7Er8YVAAAZ|cdbGuru|No CDB, se investir R$ 15.000 durante 18 meses, você resgatará entre R$ 16500 e R$ 16900
+804|30|ZV_11OvCqT7Er8YVAAAZ|tesouroGuru|No Tesouro Direto, se investir R$ 15.000 durante 18 meses, você resgatará entre R$ 16500 e R$ 16900
+805|30|ZV_11OvCqT7Er8YVAAAZ|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+806|30|ZV_11OvCqT7Er8YVAAAZ|finch-user|@tesouroGuru qual o valor minimo de aplicação?
+807|30|ZV_11OvCqT7Er8YVAAAZ|tesouroGuru|No tesouro direto é possível começar a investir com R$ 30.
+808|30|ZV_11OvCqT7Er8YVAAAZ|finch-user|@tesouroGuru Qual o prazo minimo de aplicação?
+809|30|ZV_11OvCqT7Er8YVAAAZ|tesouroGuru|O tesouro direto é indicado para todos os tipos de prazos.
+810|30|ZV_11OvCqT7Er8YVAAAZ|finch-user|@tesouroGuru Qual o valor minimo de Resgate no prazo estipulado?
+811|30|ZV_11OvCqT7Er8YVAAAZ|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+812|30|ZV_11OvCqT7Er8YVAAAZ|finch-user|@tesouroGuru Ao final do prazo de aplicação, o resgate deverá ser integral?
+813|30|ZV_11OvCqT7Er8YVAAAZ|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+814|30|ZV_11OvCqT7Er8YVAAAZ|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+815|30|ZV_11OvCqT7Er8YVAAAZ|finch-user|estou satisfeito com as informaçes. Já decidi qual a melhor aplicação.
+816|30|ZV_11OvCqT7Er8YVAAAZ|finch-user|Obrigado pelas informaçes.
+817|30|ZV_11OvCqT7Er8YVAAAZ|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+818|31|orCHg8e9hmd9PUp4AAAV|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+819|31|orCHg8e9hmd9PUp4AAAV|finch-user|R$30.000,00 5 anos
+820|31|orCHg8e9hmd9PUp4AAAV|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 30.000 reais durante  5 anos?
+821|31|orCHg8e9hmd9PUp4AAAV|investimentoGuru|Na Poupanca, se investir R$ 30.000 durante 5 anos, você resgatará entre R$ 39400 e R$ 41500
+822|31|orCHg8e9hmd9PUp4AAAV|investimentoGuru|No Tesouro Direto, se investir R$ 30.000 durante 5 anos, você resgatará entre R$ 42600 e R$ 45400
+823|31|orCHg8e9hmd9PUp4AAAV|investimentoGuru|No CDB, se investir R$ 30.000 durante 5 anos, você resgatará entre R$ 42500 e R$ 45300
+824|31|orCHg8e9hmd9PUp4AAAV|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto rende mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+825|31|orCHg8e9hmd9PUp4AAAV|finch-user|Quais papéis no Tesouro Direto?
+826|31|orCHg8e9hmd9PUp4AAAV|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+827|31|orCHg8e9hmd9PUp4AAAV|finch-user|Quais investimentos no Tesouro Direto?
+828|31|orCHg8e9hmd9PUp4AAAV|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+829|31|orCHg8e9hmd9PUp4AAAV|finch-user|Quais rentabilidades no Tesouro Direto?
+830|31|orCHg8e9hmd9PUp4AAAV|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+831|31|orCHg8e9hmd9PUp4AAAV|finch-user|Rentabilidades?
+832|31|orCHg8e9hmd9PUp4AAAV|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+833|31|orCHg8e9hmd9PUp4AAAV|finch-user|Rentabilidade?
+834|31|orCHg8e9hmd9PUp4AAAV|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+835|31|orCHg8e9hmd9PUp4AAAV|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+836|31|orCHg8e9hmd9PUp4AAAV|finch-user|Tesouro direto?
+837|31|orCHg8e9hmd9PUp4AAAV|finch-user|Liquidez
+838|31|orCHg8e9hmd9PUp4AAAV|tesouroGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+839|32|dHfF-hzUOX_gaopmAAAU|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+840|32|dHfF-hzUOX_gaopmAAAU|finch-user|20000,00 - 2 anos
+841|32|dHfF-hzUOX_gaopmAAAU|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 20.000 reais durante  2 anos?
+842|32|dHfF-hzUOX_gaopmAAAU|tesouroGuru|No Tesouro Direto, se investir R$ 20.000 durante 2 anos, você resgatará entre R$ 22800 e R$ 23400
+843|32|dHfF-hzUOX_gaopmAAAU|poupancaGuru|Na Poupanca, se investir R$ 20.000 durante 2 anos, você resgatará entre R$ 22200 e R$ 22700
+844|32|dHfF-hzUOX_gaopmAAAU|cdbGuru|No CDB, se investir R$ 20.000 durante 2 anos, você resgatará entre R$ 22800 e R$ 23400
+845|32|dHfF-hzUOX_gaopmAAAU|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+846|32|dHfF-hzUOX_gaopmAAAU|finch-user|Eles tem liquidez ou existe algum tipo de carência caso seja necessário resgate?
+847|32|dHfF-hzUOX_gaopmAAAU|investimentoGuru|Para fazer perguntas diretas aos nossos gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru)
+848|32|dHfF-hzUOX_gaopmAAAU|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+849|32|dHfF-hzUOX_gaopmAAAU|finch-user|@TD
+850|32|dHfF-hzUOX_gaopmAAAU|finch-user|@TD Posso resgatar antes dos 2 anos?
+851|32|dHfF-hzUOX_gaopmAAAU|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+852|32|dHfF-hzUOX_gaopmAAAU|finch-user|@TD Tem retenção de imposto de renda? qual o valor?
+853|32|dHfF-hzUOX_gaopmAAAU|investimentoGuru|Para fazer perguntas diretas aos nossos gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru)
+854|32|dHfF-hzUOX_gaopmAAAU|finch-user|tesouroGuru - tem cobrança de IR?
+855|32|dHfF-hzUOX_gaopmAAAU|investimentoGuru|Você pode fazer perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+856|32|dHfF-hzUOX_gaopmAAAU|finch-user|tesouroGuru - O que acontece no caso de precisar regatar antes do término do contrato?
+857|32|dHfF-hzUOX_gaopmAAAU|investimentoGuru|É uma taxa que é emitida diariamente para lastrear operações de curto prazo entre os bancos.
+858|32|dHfF-hzUOX_gaopmAAAU|finch-user|@cdbGuru qual a rentabilidade dos últimos 12 meses?
+859|32|dHfF-hzUOX_gaopmAAAU|cdbGuru|Qual valor gostaria de investir?
+860|32|dHfF-hzUOX_gaopmAAAU|finch-user|20000.00
+861|32|dHfF-hzUOX_gaopmAAAU|investimentoGuru|Por quanto tempo deseja investir?
+862|32|dHfF-hzUOX_gaopmAAAU|finch-user|2anos
+863|32|dHfF-hzUOX_gaopmAAAU|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+864|32|dHfF-hzUOX_gaopmAAAU|finch-user|obrigado
+865|32|dHfF-hzUOX_gaopmAAAU|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+893|34|oOHqbICGkvBACoxnAAAd|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+894|34|oOHqbICGkvBACoxnAAAd|finch-user|R$ 2000 para um prazo de investimento inferior a dois anos.
+895|34|oOHqbICGkvBACoxnAAAd|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+896|34|oOHqbICGkvBACoxnAAAd|finch-user|R$ 2000 em 2 anos
+897|34|oOHqbICGkvBACoxnAAAd|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 2.000 reais durante  2 anos?
+898|34|oOHqbICGkvBACoxnAAAd|tesouroGuru|No Tesouro Direto, se investir R$ 2.000 durante 2 anos, você resgatará entre R$ 2200 e R$ 2300
+899|34|oOHqbICGkvBACoxnAAAd|poupancaGuru|Na Poupanca, se investir R$ 2.000 durante 2 anos, você resgatará aproximadamente R$ 2.200
+900|34|oOHqbICGkvBACoxnAAAd|cdbGuru|No CDB, se investir R$ 2.000 durante 2 anos, você resgatará entre R$ 2200 e R$ 2300
+901|34|oOHqbICGkvBACoxnAAAd|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+902|34|oOHqbICGkvBACoxnAAAd|finch-user|CDB, existem múltiplas modalidades de fundos, com prazos de resgate e aplicação mínima diferentes?
+903|34|oOHqbICGkvBACoxnAAAd|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+904|34|oOHqbICGkvBACoxnAAAd|cdbGuru|Aplicando no CDB, você acorda com o banco o tempo de investimento. Você pode retirar o dinheiro a qualquer momento, mas poderá pagar uma taxa mais alta se não respeitar o acordo.
+905|34|oOHqbICGkvBACoxnAAAd|finch-user|CDB, e se eu resgatar o valor aplicado antes de completar dois anos?
+906|34|oOHqbICGkvBACoxnAAAd|finch-user|TD, eu posso retirar o dinheiro antes de completar dois anos?
+907|34|oOHqbICGkvBACoxnAAAd|tesouroGuru|Ao vender antes do prazo, o investidor receberá o preço de mercado pelos títulos públicos.
+908|34|oOHqbICGkvBACoxnAAAd|finch-user|CDB, existem várias modalidades de fundos de investimento?
+909|34|oOHqbICGkvBACoxnAAAd|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+910|34|oOHqbICGkvBACoxnAAAd|finch-user|TD, qual é o grau de risco do investimento em tesouro direto?
+911|34|oOHqbICGkvBACoxnAAAd|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+912|34|oOHqbICGkvBACoxnAAAd|finch-user|TD, comparando com o CDB, qual investimento seria menos arriscado?
+913|34|oOHqbICGkvBACoxnAAAd|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+914|34|oOHqbICGkvBACoxnAAAd|finch-user|CDB, qual é o grau de risco do investimento?
+915|34|oOHqbICGkvBACoxnAAAd|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+916|34|oOHqbICGkvBACoxnAAAd|finch-user|TD, se eu tivesse investido R$ 2000 no tesouro direto há um ano, quanto eu teria hoje?
+917|34|oOHqbICGkvBACoxnAAAd|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+918|34|oOHqbICGkvBACoxnAAAd|finch-user|TD, qual foi o rendimento médio do último ano?
+919|34|oOHqbICGkvBACoxnAAAd|tesouroGuru|Atualmente só estou calculando o Tesouro Selic. Para simular o Tesouro Selic digite o valor e o prazo do investimento.
+920|34|oOHqbICGkvBACoxnAAAd|finch-user|R$ 2000 e um ano
+921|34|oOHqbICGkvBACoxnAAAd|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+922|34|oOHqbICGkvBACoxnAAAd|finch-user|TD, R$ 2000 e um ano
+923|34|oOHqbICGkvBACoxnAAAd|tesouroGuru|Qual valor gostaria de investir?
+924|34|oOHqbICGkvBACoxnAAAd|finch-user|TD, R$ 2000
+925|34|oOHqbICGkvBACoxnAAAd|investimentoGuru|Por quanto tempo deseja investir?
+926|34|oOHqbICGkvBACoxnAAAd|tesouroGuru|Qual o valor você gostaria de investir?
+927|34|oOHqbICGkvBACoxnAAAd|finch-user|@TD, R$ 2000
+928|34|oOHqbICGkvBACoxnAAAd|investimentoGuru|Por quanto tempo deseja investir?
+984|36|4yjLf0Hk_hck5HbLAAAY|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+985|36|4yjLf0Hk_hck5HbLAAAY|finch-user|R$1000 até 2 anos
+986|36|4yjLf0Hk_hck5HbLAAAY|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 1.000 reais durante  2 anos?
+987|36|4yjLf0Hk_hck5HbLAAAY|poupancaGuru|Na Poupanca, se investir R$ 1.000 durante 2 anos, você resgatará aproximadamente R$ 1.100
+988|36|4yjLf0Hk_hck5HbLAAAY|cdbGuru|No CDB, se investir R$ 1.000 durante 2 anos, você resgatará aproximadamente R$ 1.100
+989|36|4yjLf0Hk_hck5HbLAAAY|tesouroGuru|No Tesouro Direto, se investir R$ 1.000 durante 2 anos, você resgatará aproximadamente R$ 1.100
+990|36|4yjLf0Hk_hck5HbLAAAY|investimentoGuru|De acordo com a nossa conversa, o CDB, a Poupança e o Tesouro Direto possuem rendimento igual neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+991|36|4yjLf0Hk_hck5HbLAAAY|finch-user|gostaria de saber sobre os riscos de investir este valor durante 2 anos
+992|36|4yjLf0Hk_hck5HbLAAAY|investimentoGuru|Qual valor?
+993|36|4yjLf0Hk_hck5HbLAAAY|finch-user|1000.00
+994|36|4yjLf0Hk_hck5HbLAAAY|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 1.000 reais durante  2 anos?
+995|36|4yjLf0Hk_hck5HbLAAAY|poupancaGuru|Na Poupanca, se investir R$ 1.000 durante 2 anos, você resgatará aproximadamente R$ 1.100
+996|36|4yjLf0Hk_hck5HbLAAAY|cdbGuru|No CDB, se investir R$ 1.000 durante 2 anos, você resgatará aproximadamente R$ 1.100
+997|36|4yjLf0Hk_hck5HbLAAAY|tesouroGuru|No Tesouro Direto, se investir R$ 1.000 durante 2 anos, você resgatará aproximadamente R$ 1.100
+998|36|4yjLf0Hk_hck5HbLAAAY|investimentoGuru|De acordo com a nossa conversa, o CDB, a Poupança e o Tesouro Direto possuem rendimento igual neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+999|36|4yjLf0Hk_hck5HbLAAAY|finch-user|obrigada
+1000|36|4yjLf0Hk_hck5HbLAAAY|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1001|37|lhKxlgMSn_e-_xqEAAAa|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1002|37|lhKxlgMSn_e-_xqEAAAa|finch-user|R$ 20000 por 2 anos
+1003|37|lhKxlgMSn_e-_xqEAAAa|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 20.000 reais durante  2 anos?
+1004|37|lhKxlgMSn_e-_xqEAAAa|poupancaGuru|Na Poupanca, se investir R$ 20.000 durante 2 anos, você resgatará entre R$ 22200 e R$ 22700
+1005|37|lhKxlgMSn_e-_xqEAAAa|tesouroGuru|No Tesouro Direto, se investir R$ 20.000 durante 2 anos, você resgatará entre R$ 22800 e R$ 23400
+1006|37|lhKxlgMSn_e-_xqEAAAa|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1007|37|lhKxlgMSn_e-_xqEAAAa|finch-user|Quais os riscos de investir em CDB?
+1008|37|lhKxlgMSn_e-_xqEAAAa|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+1009|37|lhKxlgMSn_e-_xqEAAAa|finch-user|O que acontece se o banco que emitiu o CDB falir e o FGC não conseguir cobrir as dívidas?
+1010|37|lhKxlgMSn_e-_xqEAAAa|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+1011|37|lhKxlgMSn_e-_xqEAAAa|finch-user|Sei disso, minha dúvida é se há riscos de o fundo garantidor de crédito não conseguir cobrir as dívidas se um ou mais bancos falirem
+1012|37|lhKxlgMSn_e-_xqEAAAa|finch-user|Imagino que o fundo garantidor de créditos tenha um limite que ele consiga cobrir, certo?
+1013|37|lhKxlgMSn_e-_xqEAAAa|investimentoGuru|O Fundo Garantidor de Créditos (FGC) é uma entidade que protege o investidor em caso de intervenção, de liquidação ou de falência deu uma instituição financeira.
+1014|37|lhKxlgMSn_e-_xqEAAAa|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1015|37|lhKxlgMSn_e-_xqEAAAa|finch-user|cri cri
+1016|37|lhKxlgMSn_e-_xqEAAAa|finch-user|Como o Tesouro IPCA e Pré-fixado são precificados?
+1017|37|lhKxlgMSn_e-_xqEAAAa|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1018|37|lhKxlgMSn_e-_xqEAAAa|finch-user|cri cri
+1019|37|lhKxlgMSn_e-_xqEAAAa|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1020|37|lhKxlgMSn_e-_xqEAAAa|finch-user|Qual o melhor investimento para aposentadoria?
+1021|37|lhKxlgMSn_e-_xqEAAAa|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+1022|37|lhKxlgMSn_e-_xqEAAAa|finch-user|200000 por 22 anos
+1023|37|lhKxlgMSn_e-_xqEAAAa|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 200.000 reais durante  22 anos?
+1024|37|lhKxlgMSn_e-_xqEAAAa|poupancaGuru|Na Poupanca, se investir R$ 200.000 durante 22 anos, você resgatará entre R$ 691600 e R$ 800800
+1025|37|lhKxlgMSn_e-_xqEAAAa|tesouroGuru|No Tesouro Direto, se investir R$ 200.000 durante 22 anos, você resgatará entre R$ 1106800 e R$ 1308300
+1026|37|lhKxlgMSn_e-_xqEAAAa|cdbGuru|No CDB, se investir R$ 200.000 durante 22 anos, você resgatará entre R$ 1094100 e R$ 1292700
+1027|37|lhKxlgMSn_e-_xqEAAAa|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto rende mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1028|37|lhKxlgMSn_e-_xqEAAAa|finch-user|Como posso investir para ter receita recorrente durante minha aposentadoria?
+1029|37|lhKxlgMSn_e-_xqEAAAa|investimentoGuru|Até logo. Espero ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1030|38|dUBHpXjQdqLauKjyAAAU|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1031|38|dUBHpXjQdqLauKjyAAAU|finch-user|R$10000 e 2 anos
+1032|38|dUBHpXjQdqLauKjyAAAU|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 10.000 reais durante  2 anos?
+1033|38|dUBHpXjQdqLauKjyAAAU|poupancaGuru|Na Poupanca, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11100 e R$ 11300
+1034|38|dUBHpXjQdqLauKjyAAAU|cdbGuru|No CDB, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11400 e R$ 11700
+1035|38|dUBHpXjQdqLauKjyAAAU|tesouroGuru|No Tesouro Direto, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11400 e R$ 11700
+1036|38|dUBHpXjQdqLauKjyAAAU|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1037|38|dUBHpXjQdqLauKjyAAAU|finch-user|Qual o risco de perder dinheiro com o CDB?
+1038|38|dUBHpXjQdqLauKjyAAAU|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+1039|38|dUBHpXjQdqLauKjyAAAU|finch-user|entendi
+1040|38|dUBHpXjQdqLauKjyAAAU|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1041|38|dUBHpXjQdqLauKjyAAAU|finch-user|como escolher entre o CDB e o tesouro direto?
+1042|38|dUBHpXjQdqLauKjyAAAU|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1043|38|dUBHpXjQdqLauKjyAAAU|finch-user|Obrigdo
+1044|38|dUBHpXjQdqLauKjyAAAU|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1045|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1046|39|XGOdQHOtAmi26hofAAAc|finch-user|R$4500,00 12 MESES
+1047|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 4.500 reais durante  12 meses?
+1048|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|No CDB, se investir R$ 4.500 durante 12 meses, você resgatará entre R$ 4700 e R$ 4800
+1049|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Na Poupanca, se investir R$ 4.500 durante 12 meses, você resgatará entre R$ 4700 e R$ 4800
+1050|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|No Tesouro Direto, se investir R$ 4.500 durante 12 meses, você resgatará entre R$ 4700 e R$ 4800
+1051|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|De acordo com a nossa conversa, o CDB, a Poupança e o Tesouro Direto possuem rendimento igual neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1052|39|XGOdQHOtAmi26hofAAAc|finch-user|QUAL É O RISCO DOS INVESTIMENTOS?
+1053|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Para fazer perguntas diretas aos nossos gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru)
+1054|39|XGOdQHOtAmi26hofAAAc|finch-user|QUAL É O RISCO DA POUPANÇA?
+1055|39|XGOdQHOtAmi26hofAAAc|poupancaGuru|Investimentos na poupança têm cobertura até 250 mil reais pelo Fundo Garantidor de Crédito, ou seja, se você investir até 250 mil, não há nenhum risco.
+1056|39|XGOdQHOtAmi26hofAAAc|finch-user|QUAL É O RISCO DO CDB?
+1057|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+1058|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+1059|39|XGOdQHOtAmi26hofAAAc|finch-user|QUAL É O RISCO DO TESOURO DIRETO?
+1060|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|O Tesouro Direto é um programa de negociação de títulos públicos para pessoas físicas por meio da internet.
+1061|39|XGOdQHOtAmi26hofAAAc|finch-user|O QUE É O TESOURO DIRETO?
+1062|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Risco de crédito é a capacidade de pagamento do Governo, que é o emissor dos Títulos Públicos.
+1063|39|XGOdQHOtAmi26hofAAAc|finch-user|o que é risco de crédito no CDB?
+1064|39|XGOdQHOtAmi26hofAAAc|finch-user|o risco de crédito é alto no tesouro direto?
+1065|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|O risco de crédito dos títulos públicos é considerado muito baixo. – É mais fácil um banco ou uma instituição privada “quebrar” do que um país inteiro.
+1066|39|XGOdQHOtAmi26hofAAAc|finch-user|se eu precisar resgatar o investimento antes do período quanto prderei?
+1067|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+1068|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1069|39|XGOdQHOtAmi26hofAAAc|finch-user|entendi.
+1070|39|XGOdQHOtAmi26hofAAAc|finch-user|R$4500 6 meses
+1071|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 4.500 reais durante  6 meses?
+1072|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Na Poupanca, se investir R$ 4.500 durante 6 meses, você resgatará aproximadamente R$ 4.600
+1073|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|No Tesouro Direto, se investir R$ 4.500 durante 6 meses, você resgatará aproximadamente R$ 4.600
+1074|39|XGOdQHOtAmi26hofAAAc|cdbGuru|No CDB, se investir R$ 4.500 durante 6 meses, você resgatará aproximadamente R$ 4.600
+1075|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|De acordo com a nossa conversa, a Poupança, o Tesouro Direto e o CDB possuem rendimento igual neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1076|39|XGOdQHOtAmi26hofAAAc|finch-user|R$4500 18 meses
+1077|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 4.500 reais durante  18 meses?
+1078|39|XGOdQHOtAmi26hofAAAc|poupancaGuru|Na Poupanca, se investir R$ 4.500 durante 18 meses, você resgatará entre R$ 4800 e R$ 4900
+1079|39|XGOdQHOtAmi26hofAAAc|tesouroGuru|No Tesouro Direto, se investir R$ 4.500 durante 18 meses, você resgatará entre R$ 4900 e R$ 5000
+1080|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1081|39|XGOdQHOtAmi26hofAAAc|finch-user|o que é liquidez?
+1082|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+1083|39|XGOdQHOtAmi26hofAAAc|finch-user|algum investimento desconto impostos?
+1084|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Um fundo de investimento é uma forma de aplicação financeira, formada pela união de vários investidores que se juntam para a realização de um investimento financeiro, não possuindo personalidade jurídica e sendo constituído tal qual um condomí...
+1085|39|XGOdQHOtAmi26hofAAAc|finch-user|com é o desconto de tributos dos investimentos?
+1086|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Um fundo de investimento é uma forma de aplicação financeira, formada pela união de vários investidores que se juntam para a realização de um investimento financeiro, não possuindo personalidade jurídica e sendo constituído tal qual um condomí...
+1087|39|XGOdQHOtAmi26hofAAAc|finch-user|não foi isso que perguntei...
+1088|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Você pode fazer perguntas sobre investimentos para os nossos Gurus. Para fazer perguntas diretas aos Gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru).
+1089|39|XGOdQHOtAmi26hofAAAc|finch-user|vc respondeu facça. está com erro. o correto é FAÇA
+1090|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Para fazer perguntas diretas aos nossos gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru).
+1091|39|XGOdQHOtAmi26hofAAAc|finch-user|o que vc pode me aconselhar sobre poupança?
+1092|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|É uma forma de investimento de baixo risco cuja operação é regida por regras do governo.
+1093|39|XGOdQHOtAmi26hofAAAc|finch-user|R$4500,00 24 meses
+1094|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 4.500 reais durante  24 meses?
+1095|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Na Poupanca, se investir R$ 4.500 durante 24 meses, você resgatará entre R$ 5000 e R$ 5100
+1096|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|No Tesouro Direto, se investir R$ 4.500 durante 24 meses, você resgatará entre R$ 5100 e R$ 5200
+1097|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|No CDB, se investir R$ 4.500 durante 24 meses, você resgatará entre R$ 5100 e R$ 5200
+1098|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1099|39|XGOdQHOtAmi26hofAAAc|finch-user|essa conversa acaba?
+1100|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1101|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1102|39|XGOdQHOtAmi26hofAAAc|finch-user|@investimentoGuru
+1103|39|XGOdQHOtAmi26hofAAAc|finch-user|caiu a conexão?
+1104|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1105|39|XGOdQHOtAmi26hofAAAc|finch-user|te buguei?
+1106|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1107|39|XGOdQHOtAmi26hofAAAc|finch-user|socorro?!
+1108|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1109|39|XGOdQHOtAmi26hofAAAc|finch-user|desistiu de mim?
+1110|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1111|39|XGOdQHOtAmi26hofAAAc|finch-user|cdb
+1112|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1113|39|XGOdQHOtAmi26hofAAAc|finch-user|o que é cdb?
+1114|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|O CDB (Certificado de Depósito Bancário)  funciona como um empréstimo que você faz ao banco, recebendo uma remuneração em troca.
+1115|39|XGOdQHOtAmi26hofAAAc|finch-user|quanto rende um cdb?
+1116|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Isso varia de acordo com a taxa Selic e o CDI.
+1117|39|XGOdQHOtAmi26hofAAAc|finch-user|o que é taxa selic?
+1118|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|É taxa de financiamento para operações em que os bancos tomam recursos emprestados de outros bancos por um dia, oferecendo títulos públicos como lastro, visando reduzir o custo, e a remuneração da transação.
+1119|39|XGOdQHOtAmi26hofAAAc|finch-user|o que é lastro?
+1120|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1121|39|XGOdQHOtAmi26hofAAAc|finch-user|o que é cdi?
+1122|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1123|39|XGOdQHOtAmi26hofAAAc|finch-user|o que é tesouro público?
+1124|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|O Tesouro Direto é um programa de negociação de títulos públicos para pessoas físicas por meio da internet.
+1125|39|XGOdQHOtAmi26hofAAAc|finch-user|o que é título público?
+1126|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1127|39|XGOdQHOtAmi26hofAAAc|finch-user|R$4500 1 ano
+1128|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1129|39|XGOdQHOtAmi26hofAAAc|finch-user|MUITOS ERROS.
+1130|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1131|39|XGOdQHOtAmi26hofAAAc|finch-user|há quanto tempo estou aqui?
+1132|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1133|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1134|39|XGOdQHOtAmi26hofAAAc|finch-user|vai acabar?
+1135|39|XGOdQHOtAmi26hofAAAc|investimentoGuru|Erro ao conectar o bot.
+1136|39|XGOdQHOtAmi26hofAAAc|finch-user|@investimentoGuru
+1150|41|zn1RDpf99zcd0pQTAAAa|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1151|41|zn1RDpf99zcd0pQTAAAa|finch-user|R$4000, prazo de 5 anos
+1152|41|zn1RDpf99zcd0pQTAAAa|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 4.000 reais durante  5 anos?
+1153|41|zn1RDpf99zcd0pQTAAAa|poupancaGuru|Na Poupanca, se investir R$ 4.000 durante 5 anos, você resgatará entre R$ 5200 e R$ 5500
+1154|41|zn1RDpf99zcd0pQTAAAa|cdbGuru|No CDB, se investir R$ 4.000 durante 5 anos, você resgatará entre R$ 5600 e R$ 6000
+1155|41|zn1RDpf99zcd0pQTAAAa|tesouroGuru|No Tesouro Direto, se investir R$ 4.000 durante 5 anos, você resgatará entre R$ 5600 e R$ 6000
+1156|41|zn1RDpf99zcd0pQTAAAa|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1157|41|zn1RDpf99zcd0pQTAAAa|finch-user|qual a diferença entre td e cdb?
+1158|41|zn1RDpf99zcd0pQTAAAa|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1159|41|zn1RDpf99zcd0pQTAAAa|finch-user|qual a diferença entre tesouro direto e CDB?
+1160|41|zn1RDpf99zcd0pQTAAAa|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1161|41|zn1RDpf99zcd0pQTAAAa|tesouroGuru|O Tesouro Direto possui custos baixos, segurança e alta liquidez.
+1162|41|zn1RDpf99zcd0pQTAAAa|finch-user|porque eu devo escolher Tesouro direto?
+1163|41|zn1RDpf99zcd0pQTAAAa|finch-user|porque eu devo escolher CDB?
+1164|41|zn1RDpf99zcd0pQTAAAa|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1165|41|zn1RDpf99zcd0pQTAAAa|finch-user|qual a aplicaçao de maior risco?
+1166|41|zn1RDpf99zcd0pQTAAAa|investimentoGuru|O valor da Taxa Selic é 9,15% ao ano
+1167|41|zn1RDpf99zcd0pQTAAAa|finch-user|o que é a taxa selic?
+1168|41|zn1RDpf99zcd0pQTAAAa|investimentoGuru|É taxa de financiamento para operações em que os bancos tomam recursos emprestados de outros bancos por um dia, oferecendo títulos públicos como lastro, visando reduzir o custo, e a remuneração da transação.
+1169|41|zn1RDpf99zcd0pQTAAAa|finch-user|quais as vantagens de aplicar no CDB?
+1170|41|zn1RDpf99zcd0pQTAAAa|cdbGuru|O CDB tem rentabilidade maior que a poupança e inflação e você pode resgatar seu dinheiro a qualquer momento.
+1171|41|zn1RDpf99zcd0pQTAAAa|finch-user|qual a liquidez do tesouro direto?
+1172|41|zn1RDpf99zcd0pQTAAAa|tesouroGuru|O Tesouro direto permite que você venda os títulos antes da data de vencimento, o próprio governo que compra os títulos.
+1173|41|zn1RDpf99zcd0pQTAAAa|finch-user|qual a rentabilidade do CDB?
+1174|41|zn1RDpf99zcd0pQTAAAa|cdbGuru|Isso varia de acordo com a taxa Selic e o CDI.
+1175|41|zn1RDpf99zcd0pQTAAAa|finch-user|qual o CDI atual?
+1176|41|zn1RDpf99zcd0pQTAAAa|cdbGuru|CDI significa Certificado de Depósito Interbancário.É um título que permite transações entre bancos.
+1177|41|zn1RDpf99zcd0pQTAAAa|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1178|41|zn1RDpf99zcd0pQTAAAa|finch-user|que indices controlam o TD?
+1179|41|zn1RDpf99zcd0pQTAAAa|tesouroGuru|Atualmente só estou calculando o Tesouro Selic. Para simular o Tesouro Selic digite o valor e o prazo do investimento.
+1180|41|zn1RDpf99zcd0pQTAAAa|finch-user|que indices controlam a rentabilidade do tesouro direto?
+1181|42|Z74wwofIt75SasCWAAA1|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1182|42|Z74wwofIt75SasCWAAA1|finch-user|5000.00
+1183|42|Z74wwofIt75SasCWAAA1|investimentoGuru|Por quanto tempo deseja investir?
+1184|42|Z74wwofIt75SasCWAAA1|finch-user|2 anos
+1185|42|Z74wwofIt75SasCWAAA1|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 5.000 reais durante  2 anos?
+1186|42|Z74wwofIt75SasCWAAA1|tesouroGuru|No Tesouro Direto, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5700 e R$ 5800
+1187|42|Z74wwofIt75SasCWAAA1|cdbGuru|No CDB, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5700 e R$ 5800
+1188|42|Z74wwofIt75SasCWAAA1|poupancaGuru|Na Poupanca, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5500 e R$ 5600
+1189|42|Z74wwofIt75SasCWAAA1|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1190|42|Z74wwofIt75SasCWAAA1|finch-user|Continuar a conversa
+1191|42|Z74wwofIt75SasCWAAA1|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1192|42|Z74wwofIt75SasCWAAA1|finch-user|qual o risco no CDB e Tesouro Direto?
+1193|42|Z74wwofIt75SasCWAAA1|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+1194|42|Z74wwofIt75SasCWAAA1|finch-user|qual o risco no Tesouro Direto?
+1195|42|Z74wwofIt75SasCWAAA1|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+1196|42|Z74wwofIt75SasCWAAA1|finch-user|Entendi.
+1197|42|Z74wwofIt75SasCWAAA1|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1198|42|Z74wwofIt75SasCWAAA1|finch-user|o que é liquidez?
+1199|42|Z74wwofIt75SasCWAAA1|investimentoGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+1200|42|Z74wwofIt75SasCWAAA1|finch-user|qual a liquidez do CDB?
+1201|42|Z74wwofIt75SasCWAAA1|finch-user|qual a liquidez do Tesouro Direto
+1202|42|Z74wwofIt75SasCWAAA1|tesouroGuru|O Tesouro direto permite que você venda os títulos antes da data de vencimento, o próprio governo que compra os títulos.
+1203|42|Z74wwofIt75SasCWAAA1|finch-user|?
+1204|42|Z74wwofIt75SasCWAAA1|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1205|42|Z74wwofIt75SasCWAAA1|finch-user|o que é rentabilidade?
+1206|42|Z74wwofIt75SasCWAAA1|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1207|42|Z74wwofIt75SasCWAAA1|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1208|42|Z74wwofIt75SasCWAAA1|finch-user|rentabilidade
+1209|42|Z74wwofIt75SasCWAAA1|cdbGuru|Isso varia de acordo com a taxa Selic e o CDI.
+1210|42|Z74wwofIt75SasCWAAA1|finch-user|qual a rentabilidade do CDB?
+1211|42|Z74wwofIt75SasCWAAA1|tesouroGuru|Atualmente só estou calculando o Tesouro Selic. Para simular o Tesouro Selic digite o valor e o prazo do investimento.
+1212|42|Z74wwofIt75SasCWAAA1|finch-user|qual a rentabilidade do Tesouro Direto?
+1213|42|Z74wwofIt75SasCWAAA1|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 5.000 reais durante  2 anos?
+1214|42|Z74wwofIt75SasCWAAA1|finch-user|5000 e 2 anos
+1215|42|Z74wwofIt75SasCWAAA1|poupancaGuru|Na Poupanca, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5500 e R$ 5600
+1216|42|Z74wwofIt75SasCWAAA1|cdbGuru|No CDB, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5700 e R$ 5800
+1217|42|Z74wwofIt75SasCWAAA1|tesouroGuru|No Tesouro Direto, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5700 e R$ 5800
+1218|42|Z74wwofIt75SasCWAAA1|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1219|42|Z74wwofIt75SasCWAAA1|finch-user|boa tarde
+1220|42|Z74wwofIt75SasCWAAA1|investimentoGuru|Olá. Para fazer uma simulação digite R$, valor e o prazo de investimento.
+1221|42|Z74wwofIt75SasCWAAA1|finch-user|obrigado!
+1222|42|Z74wwofIt75SasCWAAA1|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1223|43|pk4wTXtLl3plX8E7AAAf|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1224|43|pk4wTXtLl3plX8E7AAAf|finch-user|R$ 2500 2 anos
+1225|43|pk4wTXtLl3plX8E7AAAf|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 2.500 reais durante  2 anos?
+1226|43|pk4wTXtLl3plX8E7AAAf|poupancaGuru|Na Poupanca, se investir R$ 2.500 durante 2 anos, você resgatará entre R$ 2700 e R$ 2800
+1227|43|pk4wTXtLl3plX8E7AAAf|tesouroGuru|No Tesouro Direto, se investir R$ 2.500 durante 2 anos, você resgatará entre R$ 2800 e R$ 2900
+1228|43|pk4wTXtLl3plX8E7AAAf|cdbGuru|No CDB, se investir R$ 2.500 durante 2 anos, você resgatará entre R$ 2800 e R$ 2900
+1229|43|pk4wTXtLl3plX8E7AAAf|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1230|43|pk4wTXtLl3plX8E7AAAf|finch-user|Risco
+1231|43|pk4wTXtLl3plX8E7AAAf|investimentoGuru|Risco de crédito é a capacidade de pagamento do Governo, que é o emissor dos Títulos Públicos.
+1232|43|pk4wTXtLl3plX8E7AAAf|finch-user|Liquidez
+1233|43|pk4wTXtLl3plX8E7AAAf|investimentoGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+1234|43|pk4wTXtLl3plX8E7AAAf|finch-user|liquidez @cdbGuru
+1235|43|pk4wTXtLl3plX8E7AAAf|cdbGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+1236|43|pk4wTXtLl3plX8E7AAAf|finch-user|Obrigado
+1237|43|pk4wTXtLl3plX8E7AAAf|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1249|45|1Kny4JHfB00b8m10AAAE|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1250|45|1Kny4JHfB00b8m10AAAE|finch-user|80000 em 2 anos
+1251|45|1Kny4JHfB00b8m10AAAE|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 80.000 reais durante  2 anos?
+1252|45|1Kny4JHfB00b8m10AAAE|poupancaGuru|Na Poupanca, se investir R$ 80.000 durante 2 anos, você resgatará entre R$ 89100 e R$ 91100
+1253|45|1Kny4JHfB00b8m10AAAE|cdbGuru|No CDB, se investir R$ 80.000 durante 2 anos, você resgatará entre R$ 91300 e R$ 93800
+1254|45|1Kny4JHfB00b8m10AAAE|tesouroGuru|No Tesouro Direto, se investir R$ 80.000 durante 2 anos, você resgatará entre R$ 91300 e R$ 93900
+1255|45|1Kny4JHfB00b8m10AAAE|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto rende mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1256|45|1Kny4JHfB00b8m10AAAE|finch-user|Qual o risco do tesouro direto?
+1257|45|1Kny4JHfB00b8m10AAAE|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+1258|45|1Kny4JHfB00b8m10AAAE|finch-user|E em relação do CDB?
+1259|45|1Kny4JHfB00b8m10AAAE|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1260|45|1Kny4JHfB00b8m10AAAE|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+1261|45|1Kny4JHfB00b8m10AAAE|finch-user|Em relação ao CDB, qual o risco?
+1262|45|1Kny4JHfB00b8m10AAAE|finch-user|Como comparo o risco com os demais?
+1263|45|1Kny4JHfB00b8m10AAAE|investimentoGuru|Até logo. Espero ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1264|46|WxWdExGI_-J_sDCmAAAG|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1265|46|WxWdExGI_-J_sDCmAAAG|finch-user|6700.00
+1266|46|WxWdExGI_-J_sDCmAAAG|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1267|46|WxWdExGI_-J_sDCmAAAG|finch-user|4 anos
+1268|46|WxWdExGI_-J_sDCmAAAG|investimentoGuru|Qual valor?
+1269|46|WxWdExGI_-J_sDCmAAAG|finch-user|6700.00
+1270|46|WxWdExGI_-J_sDCmAAAG|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1271|46|WxWdExGI_-J_sDCmAAAG|finch-user|Quero investir R$6700 por 4 anos. O que você recomenda?
+1272|46|WxWdExGI_-J_sDCmAAAG|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 6.700 reais durante  4 anos?
+1273|46|WxWdExGI_-J_sDCmAAAG|tesouroGuru|No Tesouro Direto, se investir R$ 6.700 durante 4 anos, você resgatará entre R$ 8800 e R$ 9300
+1274|46|WxWdExGI_-J_sDCmAAAG|cdbGuru|No CDB, se investir R$ 6.700 durante 4 anos, você resgatará entre R$ 8800 e R$ 9300
+1275|46|WxWdExGI_-J_sDCmAAAG|poupancaGuru|Na Poupanca, se investir R$ 6.700 durante 4 anos, você resgatará entre R$ 8300 e R$ 8600
+1276|46|WxWdExGI_-J_sDCmAAAG|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1277|46|WxWdExGI_-J_sDCmAAAG|finch-user|Qual o risco do tesouro direto?
+1278|46|WxWdExGI_-J_sDCmAAAG|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+1279|46|WxWdExGI_-J_sDCmAAAG|finch-user|Qual o investimento mais seguro?
+1280|46|WxWdExGI_-J_sDCmAAAG|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+1281|46|WxWdExGI_-J_sDCmAAAG|finch-user|Se for para valores baixos e prazos médios?
+1282|46|WxWdExGI_-J_sDCmAAAG|investimentoGuru|Os valores simulados consideram a inflação do período e os impostos que serão pagos no resgate.
+1319|48|xjpsxqI1MqwPWOxZAAAF|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1320|48|xjpsxqI1MqwPWOxZAAAF|finch-user|Quero investir 5.000 reais
+1321|48|xjpsxqI1MqwPWOxZAAAF|investimentoGuru|Por quanto tempo deseja investir?
+1322|48|xjpsxqI1MqwPWOxZAAAF|finch-user|2 anos
+1323|48|xjpsxqI1MqwPWOxZAAAF|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 5.000 reais durante  2 anos?
+1324|48|xjpsxqI1MqwPWOxZAAAF|tesouroGuru|No Tesouro Direto, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5700 e R$ 5800
+1325|48|xjpsxqI1MqwPWOxZAAAF|cdbGuru|No CDB, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5700 e R$ 5800
+1326|48|xjpsxqI1MqwPWOxZAAAF|poupancaGuru|Na Poupanca, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5500 e R$ 5600
+1327|48|xjpsxqI1MqwPWOxZAAAF|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1328|48|xjpsxqI1MqwPWOxZAAAF|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+1329|48|xjpsxqI1MqwPWOxZAAAF|finch-user|Qual é o risco do CDB?
+1330|48|xjpsxqI1MqwPWOxZAAAF|finch-user|O que é cobertura de fundo garantidor de crédito?
+1331|48|xjpsxqI1MqwPWOxZAAAF|cdbGuru|O Fundo Garantidor de Créditos (FGC) é uma entidade que protege o investidor em caso de intervenção, de liquidação ou de falência deu uma instituição financeira.
+1332|48|xjpsxqI1MqwPWOxZAAAF|finch-user|Se eu falir o dinheiro investido continua sendo meu?
+1333|48|xjpsxqI1MqwPWOxZAAAF|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+1334|48|xjpsxqI1MqwPWOxZAAAF|finch-user|Obrigado!
+1335|48|xjpsxqI1MqwPWOxZAAAF|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1336|49|C6I1vxri3vqkLPUhAAAG|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1337|49|C6I1vxri3vqkLPUhAAAG|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 20.000 reais durante  1 ano?
+1338|49|C6I1vxri3vqkLPUhAAAG|finch-user|Olá, quero investir 20.000 reais em 1 ano.
+1339|49|C6I1vxri3vqkLPUhAAAG|poupancaGuru|Na Poupanca, se investir R$ 20.000 durante 1 ano, você resgatará entre R$ 21100 e R$ 21300
+1340|49|C6I1vxri3vqkLPUhAAAG|tesouroGuru|No Tesouro Direto, se investir R$ 20.000 durante 1 ano, você resgatará entre R$ 21300 e R$ 21600
+1341|49|C6I1vxri3vqkLPUhAAAG|cdbGuru|No CDB, se investir R$ 20.000 durante 1 ano, você resgatará entre R$ 21300 e R$ 21600
+1342|49|C6I1vxri3vqkLPUhAAAG|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1343|49|C6I1vxri3vqkLPUhAAAG|tesouroGuru|Os custos do Tesouro direto são: taxa de custódia, taxa das instituições financeiras, imposto de renda e em alguns casos IOF.
+1344|49|C6I1vxri3vqkLPUhAAAG|finch-user|Tesouro direto tem imposto?
+1345|49|C6I1vxri3vqkLPUhAAAG|finch-user|CDB é seguro?
+1346|49|C6I1vxri3vqkLPUhAAAG|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+1347|49|C6I1vxri3vqkLPUhAAAG|finch-user|obrigado!
+1348|49|C6I1vxri3vqkLPUhAAAG|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1395|52|YBx4FO7Pd7JPB4oqAAAG|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1396|52|YBx4FO7Pd7JPB4oqAAAG|finch-user|Quero investir 20.000 reais em 1 ano.
+1397|52|YBx4FO7Pd7JPB4oqAAAG|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 20.000 reais durante  1 ano?
+1398|52|YBx4FO7Pd7JPB4oqAAAG|poupancaGuru|Na Poupanca, se investir R$ 20.000 durante 1 ano, você resgatará entre R$ 21100 e R$ 21300
+1399|52|YBx4FO7Pd7JPB4oqAAAG|tesouroGuru|No Tesouro Direto, se investir R$ 20.000 durante 1 ano, você resgatará entre R$ 21300 e R$ 21600
+1400|52|YBx4FO7Pd7JPB4oqAAAG|cdbGuru|No CDB, se investir R$ 20.000 durante 1 ano, você resgatará entre R$ 21300 e R$ 21600
+1401|52|YBx4FO7Pd7JPB4oqAAAG|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1402|52|YBx4FO7Pd7JPB4oqAAAG|finch-user|O Tesouro Direto é seguro?
+1403|52|YBx4FO7Pd7JPB4oqAAAG|tesouroGuru|O Tesouro Direto é considerado uma opção de investimento de baixo custo e segura, já que os títulos públicos são considerados os ativos com menor risco em uma economia.
+1404|52|YBx4FO7Pd7JPB4oqAAAG|finch-user|O CDB tem imposto?
+1405|52|YBx4FO7Pd7JPB4oqAAAG|cdbGuru|Para aplicações em CDB paga-se imposto de renda, que varia de 22,5% a 15%, conforme o prazo, e IOF em caso de retirada em prazo menor que 30 dias.
+1406|52|YBx4FO7Pd7JPB4oqAAAG|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1407|52|YBx4FO7Pd7JPB4oqAAAG|finch-user|Obrigado!
+1566|56|dzcMTRMuG1uZgoRPAAAF|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1567|56|dzcMTRMuG1uZgoRPAAAF|finch-user|5.000,00 2 anos
+1568|56|dzcMTRMuG1uZgoRPAAAF|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 5.000 reais durante  2 anos?
+1569|56|dzcMTRMuG1uZgoRPAAAF|poupancaGuru|Na Poupanca, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5500 e R$ 5600
+1570|56|dzcMTRMuG1uZgoRPAAAF|cdbGuru|No CDB, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5700 e R$ 5800
+1571|56|dzcMTRMuG1uZgoRPAAAF|tesouroGuru|No Tesouro Direto, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5700 e R$ 5800
+1572|56|dzcMTRMuG1uZgoRPAAAF|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1573|56|dzcMTRMuG1uZgoRPAAAF|finch-user|O valor do resgate apresentado é líquido ou tem alguma taxa ou imposto?
+1574|56|dzcMTRMuG1uZgoRPAAAF|investimentoGuru|Os valores simulados consideram a inflação do período e os impostos que serão pagos no resgate.
+1575|56|dzcMTRMuG1uZgoRPAAAF|finch-user|e se o valor for para investimento em um prazo de 5 anos?
+1576|56|dzcMTRMuG1uZgoRPAAAF|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 1 reais durante  5 anos?
+1577|56|dzcMTRMuG1uZgoRPAAAF|poupancaGuru|Na Poupanca, se investir R$ 1 durante 5 anos, você resgatará apenas o valor investido.
+1578|56|dzcMTRMuG1uZgoRPAAAF|cdbGuru|No CDB, se investir R$ 1 durante 5 anos, você resgatará apenas o valor investido.
+1579|56|dzcMTRMuG1uZgoRPAAAF|tesouroGuru|No Tesouro Direto, se investir R$ 1 durante 5 anos, você resgatará apenas o valor investido.
+1580|56|dzcMTRMuG1uZgoRPAAAF|investimentoGuru|De acordo com a nossa conversa, a Poupança, o CDB e o Tesouro Direto possuem rendimento igual neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1581|56|dzcMTRMuG1uZgoRPAAAF|finch-user|ok
+1582|56|dzcMTRMuG1uZgoRPAAAF|investimentoGuru|ok
+1583|56|dzcMTRMuG1uZgoRPAAAF|finch-user|@tesouroGuru como fazer para aplicar 5.000 reais no tesouro direto
+1584|56|dzcMTRMuG1uZgoRPAAAF|tesouroGuru|Escolha um agente de custódia, faça o cadastro no site do Tesouro direto e escolha o título mais adequado para você. <a href=http://www.infomoney.com.br/tesouro-direto target=_new>Saber mais</a>
+1585|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1586|57|27FjC501nb2fMeGeAAAE|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 6.000 reais durante  3 anos?
+1587|57|27FjC501nb2fMeGeAAAE|finch-user|R$6000,00 3 anos
+1588|57|27FjC501nb2fMeGeAAAE|investimentoGuru|No CDB, se investir R$ 6.000 durante 3 anos, você resgatará entre R$ 7300 e R$ 7600
+1589|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Na Poupanca, se investir R$ 6.000 durante 3 anos, você resgatará entre R$ 7000 e R$ 7200
+1590|57|27FjC501nb2fMeGeAAAE|investimentoGuru|No Tesouro Direto, se investir R$ 6.000 durante 3 anos, você resgatará entre R$ 7300 e R$ 7600
+1591|57|27FjC501nb2fMeGeAAAE|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1592|57|27FjC501nb2fMeGeAAAE|finch-user|Qual a diferença na liquidez e rentabilidade entre o CDB e o Tesouro Direto?
+1593|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1594|57|27FjC501nb2fMeGeAAAE|finch-user|Qual a liquidez do CDB?
+1595|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Aplicando no CDB, você acorda com o banco o tempo de investimento. Você pode retirar o dinheiro a qualquer momento, mas poderá pagar uma taxa mais alta se não respeitar o acordo.
+1596|57|27FjC501nb2fMeGeAAAE|finch-user|Qual a rentabilidade do CDB?
+1597|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Isso varia de acordo com a taxa Selic e o CDI.
+1598|57|27FjC501nb2fMeGeAAAE|finch-user|Qual a rentabilidade do Tesouro Direto?
+1599|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Atualmente só estou calculando o Tesouro Selic. Para simular o Tesouro Selic digite o valor e o prazo do investimento.
+1600|57|27FjC501nb2fMeGeAAAE|finch-user|R$6000,00 3 anos
+1601|57|27FjC501nb2fMeGeAAAE|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 6.000 reais durante  3 anos?
+1602|57|27FjC501nb2fMeGeAAAE|investimentoGuru|No Tesouro Direto, se investir R$ 6.000 durante 3 anos, você resgatará entre R$ 7300 e R$ 7600
+1603|57|27FjC501nb2fMeGeAAAE|investimentoGuru|No CDB, se investir R$ 6.000 durante 3 anos, você resgatará entre R$ 7300 e R$ 7600
+1604|57|27FjC501nb2fMeGeAAAE|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1605|57|27FjC501nb2fMeGeAAAE|finch-user|Qual diferença entre o CDB e o Tesouro Direto?
+1606|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1607|57|27FjC501nb2fMeGeAAAE|finch-user|Gostaria de mais informaçes sobre o Tesouro Direto
+1608|57|27FjC501nb2fMeGeAAAE|investimentoGuru|O Tesouro Direto é um programa de negociação de títulos públicos para pessoas físicas por meio da internet.
+1609|57|27FjC501nb2fMeGeAAAE|finch-user|Qual a sua liquidez?
+1610|57|27FjC501nb2fMeGeAAAE|investimentoGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+1611|57|27FjC501nb2fMeGeAAAE|finch-user|E qual a liquidez do Tesouro Direto?
+1612|57|27FjC501nb2fMeGeAAAE|investimentoGuru|O Tesouro direto permite que você venda os títulos antes da data de vencimento, o próprio governo que compra os títulos.
+1613|57|27FjC501nb2fMeGeAAAE|finch-user|Qual o imposto incidente sobre o Tesouro Direto?
+1614|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Os custos do Tesouro direto são: taxa de custódia, taxa das instituições financeiras, imposto de renda e em alguns casos IOF.
+1615|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1616|57|27FjC501nb2fMeGeAAAE|finch-user|E quais os custos do CDB?
+1617|57|27FjC501nb2fMeGeAAAE|finch-user|Qual o imposto incidente sobre o CDB?
+1618|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Para aplicações em CDB paga-se imposto de renda, que varia de 22,5% a 15%, conforme o prazo, e IOF em caso de retirada em prazo menor que 30 dias.
+1619|57|27FjC501nb2fMeGeAAAE|investimentoGuru|A poupança rende 0,5% ao mês, mais a taxa TR.
+1620|57|27FjC501nb2fMeGeAAAE|finch-user|Qual a rentabilidade da poupança?
+1621|57|27FjC501nb2fMeGeAAAE|finch-user|O que é a taxa TR?
+1622|57|27FjC501nb2fMeGeAAAE|investimentoGuru|A TR (Taxa Referencial) representa a Taxa Básica Financeira (TBF), que é calculada em função da taxa média dos CDBs. Ela é utilizada na remuneração dos títulos da dívida agrária (TDA) e dos recursos das cadernetas de poupança e do FGTS.
+1623|57|27FjC501nb2fMeGeAAAE|finch-user|Como a taxa de juros influencia na rentabilidade dos investimentos?
+1624|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+1625|57|27FjC501nb2fMeGeAAAE|finch-user|R$6000 3 anos
+1626|57|27FjC501nb2fMeGeAAAE|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 6.000 reais durante  3 anos?
+1627|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Na Poupanca, se investir R$ 6.000 durante 3 anos, você resgatará entre R$ 7000 e R$ 7200
+1628|57|27FjC501nb2fMeGeAAAE|investimentoGuru|No Tesouro Direto, se investir R$ 6.000 durante 3 anos, você resgatará entre R$ 7300 e R$ 7600
+1629|57|27FjC501nb2fMeGeAAAE|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1630|57|27FjC501nb2fMeGeAAAE|finch-user|R$6000 5 anos
+1631|57|27FjC501nb2fMeGeAAAE|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 6.000 reais durante  5 anos?
+1632|57|27FjC501nb2fMeGeAAAE|tesouroGuru|No Tesouro Direto, se investir R$ 6.000 durante 5 anos, você resgatará entre R$ 8500 e R$ 9000
+1633|57|27FjC501nb2fMeGeAAAE|investimentoGuru|No CDB, se investir R$ 6.000 durante 5 anos, você resgatará entre R$ 8500 e R$ 9000
+1634|57|27FjC501nb2fMeGeAAAE|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1635|57|27FjC501nb2fMeGeAAAE|finch-user|R$10000 10 anos
+1636|57|27FjC501nb2fMeGeAAAE|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 10.000 reais durante  10 anos?
+1637|57|27FjC501nb2fMeGeAAAE|investimentoGuru|No Tesouro Direto, se investir R$ 10.000 durante 10 anos, você resgatará entre R$ 20700 e R$ 23100
+1638|57|27FjC501nb2fMeGeAAAE|investimentoGuru|No CDB, se investir R$ 10.000 durante 10 anos, você resgatará entre R$ 20600 e R$ 23000
+1639|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Na Poupanca, se investir R$ 10.000 durante 10 anos, você resgatará entre R$ 17300 e R$ 19000
+1640|57|27FjC501nb2fMeGeAAAE|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto rende mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1641|57|27FjC501nb2fMeGeAAAE|finch-user|Ok, obrigado!
+1642|57|27FjC501nb2fMeGeAAAE|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1643|58|0WPFNgPzVAcMWWNdAAAJ|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1644|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|R$12000,00 para investir em 2 anos
+1645|58|0WPFNgPzVAcMWWNdAAAJ|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 12.000 reais durante  2 anos?
+1646|58|0WPFNgPzVAcMWWNdAAAJ|cdbGuru|No CDB, se investir R$ 12.000 durante 2 anos, você resgatará entre R$ 13700 e R$ 14000
+1647|58|0WPFNgPzVAcMWWNdAAAJ|tesouroGuru|No Tesouro Direto, se investir R$ 12.000 durante 2 anos, você resgatará entre R$ 13700 e R$ 14000
+1648|58|0WPFNgPzVAcMWWNdAAAJ|poupancaGuru|Na Poupanca, se investir R$ 12.000 durante 2 anos, você resgatará entre R$ 13300 e R$ 13600
+1649|58|0WPFNgPzVAcMWWNdAAAJ|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1650|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|O faixa de valor informada de resgate é líquida de impostos?
+1651|58|0WPFNgPzVAcMWWNdAAAJ|investimentoGuru|Os valores simulados consideram a inflação do período e os impostos que serão pagos no resgate.
+1652|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual a inflação considerada para esse período?
+1653|58|0WPFNgPzVAcMWWNdAAAJ|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1654|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual inflação foi considerada no cálculo do valor de resgate?
+1655|58|0WPFNgPzVAcMWWNdAAAJ|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1656|58|0WPFNgPzVAcMWWNdAAAJ|investimentoGuru|Os valores simulados consideram a inflação do período e os impostos que serão pagos no resgate.
+1657|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Os valores simulados consideram a inflação do período, certo?
+1658|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual inflação?
+1659|58|0WPFNgPzVAcMWWNdAAAJ|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1660|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Quanto de inflação está sendo considerado no cálculo dos valores a resgatar?
+1661|58|0WPFNgPzVAcMWWNdAAAJ|investimentoGuru|Os valores simulados consideram a inflação do período e os impostos que serão pagos no resgate.
+1662|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Quais os riscos de investimentos em Tesouro Direto e CDB?
+1663|58|0WPFNgPzVAcMWWNdAAAJ|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+1664|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Quais os riscos de investimentos em Tesouro Direto?
+1665|58|0WPFNgPzVAcMWWNdAAAJ|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+1666|58|0WPFNgPzVAcMWWNdAAAJ|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+1667|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Quais os riscos de investimentos em CDB?
+1668|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|A aplicação é inferior a 250 mil, então não há risco de aplicar em CDB?
+1669|58|0WPFNgPzVAcMWWNdAAAJ|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+1670|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Então CDB e Tesouro Direto tem riscos diferentes mas a mesma previsão de valores a resgatar?
+1671|58|0WPFNgPzVAcMWWNdAAAJ|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1672|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Como é a liquidez de CDB?
+1673|58|0WPFNgPzVAcMWWNdAAAJ|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1674|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual é a liquidez de investimento em CDB?
+1675|58|0WPFNgPzVAcMWWNdAAAJ|cdbGuru|Aplicando no CDB, você acorda com o banco o tempo de investimento. Você pode retirar o dinheiro a qualquer momento, mas poderá pagar uma taxa mais alta se não respeitar o acordo.
+1676|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual a taxa a pagar se não respeitar o acordo?
+1677|58|0WPFNgPzVAcMWWNdAAAJ|investimentoGuru|Você pode fazer perguntas sobre investimentos para os nossos Gurus. Para fazer perguntas diretas aos Gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru).
+1678|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual a taxa a pagar se não respeitar o acordo em um investimento de CDB?
+1679|58|0WPFNgPzVAcMWWNdAAAJ|cdbGuru|Há tributação de IOF para saques com menos de 30 dias de aplicação sobre a rentabilidade e dias aplicados.
+1680|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual o imposto se resgatar o investimento em CDB após 2 anos?
+1681|58|0WPFNgPzVAcMWWNdAAAJ|cdbGuru|Para aplicações em CDB paga-se imposto de renda, que varia de 22,5% a 15%, conforme o prazo, e IOF em caso de retirada em prazo menor que 30 dias.
+1682|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual o imposto no Tesouro Direto se resgatar o investimendo em 500 dias?
+1683|58|0WPFNgPzVAcMWWNdAAAJ|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1684|58|0WPFNgPzVAcMWWNdAAAJ|tesouroGuru|Os custos do Tesouro direto são: taxa de custódia, taxa das instituições financeiras, imposto de renda e em alguns casos IOF.
+1685|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual o imposto no Tesouro Direto se resgatar o investimendo em 2 anos?
+1686|58|0WPFNgPzVAcMWWNdAAAJ|tesouroGuru|Taxa de custódia é cobrada pela BM&FBovespa sobre o valor dos títulos para a guarda dos títulos e às informações e movimentações dos saldos.
+1687|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual a taxa de custódia no Tesouro Direto?
+1688|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual a taxa das instituiçes financeiras no Tesouro Direto?
+1689|58|0WPFNgPzVAcMWWNdAAAJ|tesouroGuru|O Tesouro Nacional disponibiliza uma tabela com o valor cobrado por cada instituição. <a href="http://www.infomoney.com.br/onde-investir/renda-fixa/noticia/3891291/tesouro-direto-tres-instituicoes-tem-taxa-zero-para-aplicacao-veja">Acesse a tabela </a>
+1690|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual o rendimento da poupança?
+1691|58|0WPFNgPzVAcMWWNdAAAJ|poupancaGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1692|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual é o imposto da poupança?
+1693|58|0WPFNgPzVAcMWWNdAAAJ|poupancaGuru|Aplicações em poupança são isentas de imposto. A partir de 140 reais é obrigatório declarar a poupança no imposto de renda como rendimentos isentos e não tributáveis.
+1694|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Qual a liquidez da poupança?
+1695|58|0WPFNgPzVAcMWWNdAAAJ|poupancaGuru|A poupança possui liquidez alta pois não há prazo mínimo para resgate.
+1696|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Quais os riscos de investir em poupança?
+1697|58|0WPFNgPzVAcMWWNdAAAJ|poupancaGuru|Investimentos na poupança têm cobertura até 250 mil reais pelo Fundo Garantidor de Crédito, ou seja, se você investir até 250 mil, não há nenhum risco.
+1698|58|0WPFNgPzVAcMWWNdAAAJ|finch-user|Ok, obrigado.
+1699|58|0WPFNgPzVAcMWWNdAAAJ|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1700|59|JqblKOA8Y9nMq7LWAAAI|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1701|59|JqblKOA8Y9nMq7LWAAAI|finch-user|10000.00
+1702|59|JqblKOA8Y9nMq7LWAAAI|investimentoGuru|Por quanto tempo deseja investir?
+1703|59|JqblKOA8Y9nMq7LWAAAI|finch-user|2 anos
+1704|59|JqblKOA8Y9nMq7LWAAAI|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 10.000 reais durante  2 anos?
+1705|59|JqblKOA8Y9nMq7LWAAAI|poupancaGuru|Na Poupanca, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11100 e R$ 11300
+1706|59|JqblKOA8Y9nMq7LWAAAI|tesouroGuru|No Tesouro Direto, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11400 e R$ 11700
+1707|59|JqblKOA8Y9nMq7LWAAAI|cdbGuru|No CDB, se investir R$ 10.000 durante 2 anos, você resgatará entre R$ 11400 e R$ 11700
+1708|59|JqblKOA8Y9nMq7LWAAAI|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1709|59|JqblKOA8Y9nMq7LWAAAI|finch-user|Qual o que oferece menos risco?
+1710|59|JqblKOA8Y9nMq7LWAAAI|investimentoGuru|Para fazer perguntas diretas aos nossos gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru)
+1711|59|JqblKOA8Y9nMq7LWAAAI|investimentoGuru|Os recursos guardados na poupança são remunerados a uma taxa de juros. Já o tesouro direto é uma forma de investimento onde você compra títulos do governo e o mesmo lhe devolve o valor investido no futuro com juros.
+1712|59|JqblKOA8Y9nMq7LWAAAI|finch-user|qual o que oferece menos risco, tesouroGuru?
+1713|59|JqblKOA8Y9nMq7LWAAAI|finch-user|@investimentoGuru ok
+1714|59|JqblKOA8Y9nMq7LWAAAI|investimentoGuru|ok
+1715|59|JqblKOA8Y9nMq7LWAAAI|finch-user|@investimentoGuru próximo passo
+1716|59|JqblKOA8Y9nMq7LWAAAI|investimentoGuru|Um fundo de investimento é uma forma de aplicação financeira, formada pela união de vários investidores que se juntam para a realização de um investimento financeiro, não possuindo personalidade jurídica e sendo constituído tal qual um condomí...
+1717|59|JqblKOA8Y9nMq7LWAAAI|finch-user|@investimentoGuru ok
+1718|59|JqblKOA8Y9nMq7LWAAAI|investimentoGuru|ok
+1719|59|JqblKOA8Y9nMq7LWAAAI|finch-user|@investimentoGuru quero investir no tesouro direto
+1720|59|JqblKOA8Y9nMq7LWAAAI|investimentoGuru|Você pode fazer perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1721|59|JqblKOA8Y9nMq7LWAAAI|finch-user|@investimentoGuru sem perguntas
+1722|59|JqblKOA8Y9nMq7LWAAAI|investimentoGuru|Até logo. Espero ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1723|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1724|60|QIYR0vdeIIut_iFOAAAM|finch-user|R$500000, 1 ano
+1725|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 500.000 reais durante  1 ano?
+1726|60|QIYR0vdeIIut_iFOAAAM|tesouroGuru|No Tesouro Direto, se investir R$ 500.000 durante 1 ano, você resgatará entre R$ 532900 e R$ 540200
+1727|60|QIYR0vdeIIut_iFOAAAM|poupancaGuru|Na Poupanca, se investir R$ 500.000 durante 1 ano, você resgatará entre R$ 527700 e R$ 533900
+1728|60|QIYR0vdeIIut_iFOAAAM|cdbGuru|No CDB, se investir R$ 500.000 durante 1 ano, você resgatará entre R$ 532800 e R$ 540100
+1729|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto rende mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1730|60|QIYR0vdeIIut_iFOAAAM|finch-user|Como investir no tesouro direto
+1731|60|QIYR0vdeIIut_iFOAAAM|tesouroGuru|Escolha um agente de custódia, faça o cadastro no site do Tesouro direto e escolha o título mais adequado para você. <a href=http://www.infomoney.com.br/tesouro-direto target=_new>Saber mais</a>
+1732|60|QIYR0vdeIIut_iFOAAAM|finch-user|A redução da Selic afeta os investimentos?
+1733|60|QIYR0vdeIIut_iFOAAAM|tesouroGuru|O valor da Taxa Selic é 9,15% ao ano
+1734|60|QIYR0vdeIIut_iFOAAAM|finch-user|Na verdade hoje está em 8,25%
+1735|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1736|60|QIYR0vdeIIut_iFOAAAM|finch-user|Posso investir todo meu salário
+1737|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|Depende do prazo e do valor que você quer investir. Digite o valor com R$ e o prazo de investimento.
+1738|60|QIYR0vdeIIut_iFOAAAM|finch-user|10000 em 18 meses
+1739|60|QIYR0vdeIIut_iFOAAAM|poupancaGuru|Na Poupanca, se investir R$ 10.000 durante 18 meses, você resgatará entre R$ 10800 e R$ 11000
+1740|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 10.000 reais durante  18 meses?
+1741|60|QIYR0vdeIIut_iFOAAAM|tesouroGuru|No Tesouro Direto, se investir R$ 10.000 durante 18 meses, você resgatará entre R$ 11000 e R$ 11200
+1742|60|QIYR0vdeIIut_iFOAAAM|cdbGuru|No CDB, se investir R$ 10.000 durante 18 meses, você resgatará entre R$ 11000 e R$ 11200
+1743|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1744|60|QIYR0vdeIIut_iFOAAAM|finch-user|Risco tesouro direto
+1745|60|QIYR0vdeIIut_iFOAAAM|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+1746|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|O termo liquidez resume a rapidez e os custos envolvidos para que uma aplicação se transforme em dinheiro vivo.
+1747|60|QIYR0vdeIIut_iFOAAAM|finch-user|Liquedez
+1748|60|QIYR0vdeIIut_iFOAAAM|finch-user|Liquedez cdb
+1749|60|QIYR0vdeIIut_iFOAAAM|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1750|60|QIYR0vdeIIut_iFOAAAM|finch-user|Qual a liquedez do cdb
+1751|60|QIYR0vdeIIut_iFOAAAM|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1752|60|QIYR0vdeIIut_iFOAAAM|finch-user|Qual a liquedez da poupança
+1753|60|QIYR0vdeIIut_iFOAAAM|poupancaGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1754|60|QIYR0vdeIIut_iFOAAAM|poupancaGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1755|60|QIYR0vdeIIut_iFOAAAM|finch-user|Para que serve a poupança
+1756|60|QIYR0vdeIIut_iFOAAAM|finch-user|10 poupança
+1757|60|QIYR0vdeIIut_iFOAAAM|poupancaGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1758|60|QIYR0vdeIIut_iFOAAAM|finch-user|Poupança
+1759|60|QIYR0vdeIIut_iFOAAAM|poupancaGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1760|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1761|60|QIYR0vdeIIut_iFOAAAM|finch-user|Affe
+1762|60|QIYR0vdeIIut_iFOAAAM|finch-user|10 1
+1763|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1764|60|QIYR0vdeIIut_iFOAAAM|finch-user|r$10 em 1
+1765|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1766|60|QIYR0vdeIIut_iFOAAAM|finch-user|Começar de novo
+1767|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1768|60|QIYR0vdeIIut_iFOAAAM|finch-user|Risco
+1769|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|Risco de crédito é a capacidade de pagamento do Governo, que é o emissor dos Títulos Públicos.
+1770|60|QIYR0vdeIIut_iFOAAAM|finch-user|R$10mil 10 anos
+1771|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 10.000 reais durante  10 anos?
+1772|60|QIYR0vdeIIut_iFOAAAM|cdbGuru|No CDB, se investir R$ 10.000 durante 10 anos, você resgatará entre R$ 20600 e R$ 23000
+1773|60|QIYR0vdeIIut_iFOAAAM|poupancaGuru|Na Poupanca, se investir R$ 10.000 durante 10 anos, você resgatará entre R$ 17300 e R$ 19000
+1774|60|QIYR0vdeIIut_iFOAAAM|tesouroGuru|No Tesouro Direto, se investir R$ 10.000 durante 10 anos, você resgatará entre R$ 20700 e R$ 23100
+1775|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto rende mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1776|60|QIYR0vdeIIut_iFOAAAM|finch-user|Quando é melhor poupança
+1777|60|QIYR0vdeIIut_iFOAAAM|poupancaGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1778|60|QIYR0vdeIIut_iFOAAAM|finch-user|Tchau
+1779|60|QIYR0vdeIIut_iFOAAAM|investimentoGuru|Até logo. Espero ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1780|61|zSJQ4-8iddNPzqO1AAAM|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1781|61|zSJQ4-8iddNPzqO1AAAM|finch-user|Quero investir uns 10 conto
+1782|61|zSJQ4-8iddNPzqO1AAAM|investimentoGuru|Até logo. Espero ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1783|61|zSJQ4-8iddNPzqO1AAAM|finch-user|Por mais ou menos uns 3 anos, pq vou precisar da grana
+1784|61|zSJQ4-8iddNPzqO1AAAM|investimentoGuru|Qual valor?
+1785|61|zSJQ4-8iddNPzqO1AAAM|finch-user|Uns 10 mil
+1786|61|zSJQ4-8iddNPzqO1AAAM|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 10.000 reais durante  3 anos?
+1787|61|zSJQ4-8iddNPzqO1AAAM|tesouroGuru|No Tesouro Direto, se investir R$ 10.000 durante 3 anos, você resgatará entre R$ 12300 e R$ 12800
+1788|61|zSJQ4-8iddNPzqO1AAAM|cdbGuru|No CDB, se investir R$ 10.000 durante 3 anos, você resgatará entre R$ 12200 e R$ 12800
+1789|61|zSJQ4-8iddNPzqO1AAAM|poupancaGuru|Na Poupanca, se investir R$ 10.000 durante 3 anos, você resgatará entre R$ 11700 e R$ 12100
+1790|61|zSJQ4-8iddNPzqO1AAAM|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1791|61|zSJQ4-8iddNPzqO1AAAM|finch-user|Qual tesouro tá pagando melhor en 3 anos?
+1792|61|zSJQ4-8iddNPzqO1AAAM|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1793|61|zSJQ4-8iddNPzqO1AAAM|finch-user|Qual tesouro vc recomenda?
+1794|61|zSJQ4-8iddNPzqO1AAAM|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1795|61|zSJQ4-8iddNPzqO1AAAM|finch-user|Vc já investiu?
+1796|61|zSJQ4-8iddNPzqO1AAAM|investimentoGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1797|61|zSJQ4-8iddNPzqO1AAAM|investimentoGuru|Nossos gurus possuem informações sobre Poupança, CDB e Tesouro Direto.
+1798|61|zSJQ4-8iddNPzqO1AAAM|finch-user|Vc sabe sobre a vida?
+1799|61|zSJQ4-8iddNPzqO1AAAM|finch-user|Eentão me conta do tesouro
+1800|61|zSJQ4-8iddNPzqO1AAAM|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1801|61|zSJQ4-8iddNPzqO1AAAM|finch-user|Ntnb 35 tá valendo a pena?
+1802|61|zSJQ4-8iddNPzqO1AAAM|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1829|64|npX3P8QwKtCEbQvLAAAO|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1830|64|npX3P8QwKtCEbQvLAAAO|finch-user|5000.00
+1831|64|npX3P8QwKtCEbQvLAAAO|investimentoGuru|Por quanto tempo deseja investir?
+1832|64|npX3P8QwKtCEbQvLAAAO|finch-user|2 anos
+1833|64|npX3P8QwKtCEbQvLAAAO|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 5.000 reais durante  2 anos?
+1834|64|npX3P8QwKtCEbQvLAAAO|cdbGuru|No CDB, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5700 e R$ 5800
+1835|64|npX3P8QwKtCEbQvLAAAO|poupancaGuru|Na Poupanca, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5500 e R$ 5600
+1836|64|npX3P8QwKtCEbQvLAAAO|tesouroGuru|No Tesouro Direto, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5700 e R$ 5800
+1837|64|npX3P8QwKtCEbQvLAAAO|investimentoGuru|De acordo com a nossa conversa, o CDB e o Tesouro Direto rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1838|64|npX3P8QwKtCEbQvLAAAO|finch-user|obrigado
+1839|64|npX3P8QwKtCEbQvLAAAO|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1840|65|XFSvuHe41CqSmc1KAAAW|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1841|65|XFSvuHe41CqSmc1KAAAW|finch-user|R$ 18.000,00   3 anos
+1842|65|XFSvuHe41CqSmc1KAAAW|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 18.000 reais durante  3 anos?
+1843|65|XFSvuHe41CqSmc1KAAAW|tesouroGuru|No Tesouro Direto, se investir R$ 18.000 durante 3 anos, você resgatará entre R$ 22100 e R$ 23000
+1844|65|XFSvuHe41CqSmc1KAAAW|cdbGuru|No CDB, se investir R$ 18.000 durante 3 anos, você resgatará entre R$ 22100 e R$ 23000
+1845|65|XFSvuHe41CqSmc1KAAAW|poupancaGuru|Na Poupanca, se investir R$ 18.000 durante 3 anos, você resgatará entre R$ 21100 e R$ 21800
+1846|65|XFSvuHe41CqSmc1KAAAW|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1847|65|XFSvuHe41CqSmc1KAAAW|finch-user|qual investimento possui o menor risco?
+1848|65|XFSvuHe41CqSmc1KAAAW|investimentoGuru|Para fazer perguntas diretas aos nossos gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru)
+1849|65|XFSvuHe41CqSmc1KAAAW|tesouroGuru|O Tesouro direto permite que você venda os títulos antes da data de vencimento, o próprio governo que compra os títulos.
+1850|65|XFSvuHe41CqSmc1KAAAW|finch-user|@tesouroGuru qual a liquidez do tesouro direto?
+1851|65|XFSvuHe41CqSmc1KAAAW|finch-user|@cdbGuru qual a liquidez do CDB?
+1852|65|XFSvuHe41CqSmc1KAAAW|cdbGuru|Aplicando no CDB, você acorda com o banco o tempo de investimento. Você pode retirar o dinheiro a qualquer momento, mas poderá pagar uma taxa mais alta se não respeitar o acordo.
+1853|65|XFSvuHe41CqSmc1KAAAW|finch-user|@tesouroGuru qual o risco do tesouro direto?
+1854|65|XFSvuHe41CqSmc1KAAAW|tesouroGuru|Há risco de crédito e de mercado e não possui fundo garantidor de crédito.
+1855|65|XFSvuHe41CqSmc1KAAAW|finch-user|@tesouroGuru o que é risco de crédito?
+1856|65|XFSvuHe41CqSmc1KAAAW|tesouroGuru|Risco de crédito é a capacidade de pagamento do Governo, que é o emissor dos Títulos Públicos.
+1857|65|XFSvuHe41CqSmc1KAAAW|finch-user|@tesouroGuru o que é risco de mercado?
+1858|65|XFSvuHe41CqSmc1KAAAW|tesouroGuru|Risco de mercado é a capacidade do preço do título oscilar durante o período da sua validade.
+1859|65|XFSvuHe41CqSmc1KAAAW|finch-user|@tesouroGuru o que faz o preço do título oscilar?
+1860|65|XFSvuHe41CqSmc1KAAAW|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1861|65|XFSvuHe41CqSmc1KAAAW|finch-user|@tesouroGuru o que leva o preço do título a oscilar?
+1862|65|XFSvuHe41CqSmc1KAAAW|tesouroGuru|Preço de mercado é o valor dado ao título no momento da venda.
+1863|65|XFSvuHe41CqSmc1KAAAW|finch-user|@cdbGuru o risco do cdb?
+1864|65|XFSvuHe41CqSmc1KAAAW|cdbGuru|Se a sua aplicação for até 250 mil,  há cobertura do fundo garantidor de crédito.
+1865|65|XFSvuHe41CqSmc1KAAAW|finch-user|@cdbGuru o que é fundo garantidor de crédito?
+1866|65|XFSvuHe41CqSmc1KAAAW|cdbGuru|O Fundo Garantidor de Créditos (FGC) é uma entidade que protege o investidor em caso de intervenção, de liquidação ou de falência deu uma instituição financeira.
+1867|65|XFSvuHe41CqSmc1KAAAW|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1868|65|XFSvuHe41CqSmc1KAAAW|finch-user|@tesouroGuru qual o parzo de vencimento do tesouro?
+1869|65|XFSvuHe41CqSmc1KAAAW|tesouroGuru|O tesouro direto é indicado para todos os tipos de prazos.
+1870|65|XFSvuHe41CqSmc1KAAAW|finch-user|@tesouroGuruqual o prazo de vencimento do tesouro?
+1871|65|XFSvuHe41CqSmc1KAAAW|finch-user|@cdbGuru o dinheiro palicado no CDB é investido em que?
+1872|65|XFSvuHe41CqSmc1KAAAW|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1873|65|XFSvuHe41CqSmc1KAAAW|finch-user|@cdbGuru qual o lastro do cdb?
+1874|65|XFSvuHe41CqSmc1KAAAW|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1875|65|XFSvuHe41CqSmc1KAAAW|finch-user|@cdbGuru o dinheiro aplicado no cdb é investido em que?
+1876|65|XFSvuHe41CqSmc1KAAAW|finch-user|@tesouroGuru qual a rentabilidade em 1 ano de aplicaçao?
+1877|65|XFSvuHe41CqSmc1KAAAW|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1906|67|l2zhWhHcD8m7CS3UAAAO|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1907|67|l2zhWhHcD8m7CS3UAAAO|finch-user|5000 reais por 2 anos
+1908|67|l2zhWhHcD8m7CS3UAAAO|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 5.000 reais durante  2 anos?
+1909|67|l2zhWhHcD8m7CS3UAAAO|tesouroGuru|No Tesouro Direto, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5700 e R$ 5800
+1910|67|l2zhWhHcD8m7CS3UAAAO|cdbGuru|No CDB, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5700 e R$ 5800
+1911|67|l2zhWhHcD8m7CS3UAAAO|poupancaGuru|Na Poupanca, se investir R$ 5.000 durante 2 anos, você resgatará entre R$ 5500 e R$ 5600
+1912|67|l2zhWhHcD8m7CS3UAAAO|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1913|67|l2zhWhHcD8m7CS3UAAAO|finch-user|Qual o rieco que eu corro de não receber este valor?
+1914|67|l2zhWhHcD8m7CS3UAAAO|investimentoGuru|Você pode fazer perguntas sobre investimentos para os nossos Gurus. Para fazer perguntas diretas aos Gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru).
+1915|67|l2zhWhHcD8m7CS3UAAAO|finch-user|@tesouroGuruQual o risco que eu corro de não receber esta quantia?
+1916|67|l2zhWhHcD8m7CS3UAAAO|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1917|67|l2zhWhHcD8m7CS3UAAAO|tesouroGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1918|67|l2zhWhHcD8m7CS3UAAAO|finch-user|@tesouroGuruEu posso não receber este valor que vc estipulou?
+1919|67|l2zhWhHcD8m7CS3UAAAO|finch-user|@tesouroguru você garante que ao final de dois anos eu receba o valor que você determinou?
+1920|67|l2zhWhHcD8m7CS3UAAAO|tesouroGuru|O Tesouro Direto é um programa de negociação de títulos públicos para pessoas físicas por meio da internet.
+1921|67|l2zhWhHcD8m7CS3UAAAO|finch-user|está bem. Melhor perguntar para o gerente mesmo.
+1922|67|l2zhWhHcD8m7CS3UAAAO|investimentoGuru|Para fazer perguntas diretas aos nossos gurus digite @ seguido do nome do  guru (poupançaGuru, cdbGuru ou tesouroGuru).
+1923|67|l2zhWhHcD8m7CS3UAAAO|finch-user|Obrigada e até mais
+1924|67|l2zhWhHcD8m7CS3UAAAO|investimentoGuru|Até logo. Espero ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1925|68|WYfjdaOkClTOmzgNAAAS|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1926|68|WYfjdaOkClTOmzgNAAAS|finch-user|R$800,00 durante um ano e meio
+1927|68|WYfjdaOkClTOmzgNAAAS|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 800 reais durante  1 ano?
+1928|68|WYfjdaOkClTOmzgNAAAS|cdbGuru|No CDB, se investir R$ 800 durante 1 ano, você resgatará entre R$ 850 e R$ 860
+1929|68|WYfjdaOkClTOmzgNAAAS|poupancaGuru|Na Poupanca, se investir R$ 800 durante 1 ano, você resgatará entre R$ 840 e R$ 850
+1930|68|WYfjdaOkClTOmzgNAAAS|tesouroGuru|No Tesouro Direto, se investir R$ 800 durante 1 ano, você resgatará entre R$ 850 e R$ 860
+1931|68|WYfjdaOkClTOmzgNAAAS|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1932|68|WYfjdaOkClTOmzgNAAAS|finch-user|E durante 2 anos?
+1933|68|WYfjdaOkClTOmzgNAAAS|investimentoGuru|Qual valor?
+1934|68|WYfjdaOkClTOmzgNAAAS|finch-user|800.00
+1935|68|WYfjdaOkClTOmzgNAAAS|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 800 reais durante  2 anos?
+1936|68|WYfjdaOkClTOmzgNAAAS|tesouroGuru|No Tesouro Direto, se investir R$ 800 durante 2 anos, você resgatará entre R$ 910 e R$ 930
+1937|68|WYfjdaOkClTOmzgNAAAS|cdbGuru|No CDB, se investir R$ 800 durante 2 anos, você resgatará entre R$ 910 e R$ 930
+1938|68|WYfjdaOkClTOmzgNAAAS|poupancaGuru|Na Poupanca, se investir R$ 800 durante 2 anos, você resgatará entre R$ 890 e R$ 910
+1939|68|WYfjdaOkClTOmzgNAAAS|investimentoGuru|De acordo com a nossa conversa, o Tesouro Direto e o CDB rendem mais neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
+1940|68|WYfjdaOkClTOmzgNAAAS|finch-user|Gostaria de invertir no CDB, com seria possível?
+1941|68|WYfjdaOkClTOmzgNAAAS|cdbGuru|Desculpe, não sei responder a esta pergunta. Pergunte novamente.
+1942|68|WYfjdaOkClTOmzgNAAAS|finch-user|Obrigado, foi muito útil
+1943|68|WYfjdaOkClTOmzgNAAAS|investimentoGuru|Esperamos ter ajudado. Por favor, <a href="" onclick="angular.element(this).scope().redirectToPostquest()">clique aqui e indique sua opinião.</a>
+1981|70|-095SXiXhrGN0rRAAAAJ|investimentoGuru|Olá sou seu conselheiro de investimentos. Nossos gurus podem te ajudar com informações sobre Poupança, CDB e Tesouro Direto. Digite o valor com R$ e o prazo de investimento.
+1982|70|-095SXiXhrGN0rRAAAAJ|finch-user|R$500 por 2 meses
+1983|70|-095SXiXhrGN0rRAAAAJ|investimentoGuru|@cdbGuru @poupancaGuru @tesouroGuru, quanto seria 500 reais durante  2 meses?
+1984|70|-095SXiXhrGN0rRAAAAJ|poupancaGuru|Na Poupanca, se investir R$ 500 durante 2 meses, você resgatará aproximadamente R$ 505
+1985|70|-095SXiXhrGN0rRAAAAJ|cdbGuru|No CDB, se investir R$ 500 durante 2 meses, você resgatará aproximadamente R$ 505
+1986|70|-095SXiXhrGN0rRAAAAJ|tesouroGuru|No Tesouro Direto, se investir R$ 500 durante 2 meses, você resgatará aproximadamente R$ 505
+1987|70|-095SXiXhrGN0rRAAAAJ|investimentoGuru|De acordo com a nossa conversa, o CDB, a Poupança e o Tesouro Direto possuem rendimento igual neste período. Você pode fazer outras perguntas sobre definições, risco, liquidez ou rentabilidade aos nossos gurus.
