@@ -396,10 +396,10 @@ if __name__ == "__main__":
     fileName = filePathDirs[len(filePathDirs)-1]
     filePathDir = file_path.replace(fileName, "")
     ms = time.time()*1000.0
-    outputDir = filePathDir + "exec_" + str(ms)
+    outputDir = filePathDir + "models_" + str(ms)
 
     if not os.path.exists(outputDir):
         os.makedirs(outputDir)
-        print("Created output directory [" +outputDir + "], all files will be saved there.")
+        print("Created output directory [" +outputDir + "], all model files will be saved there.")
 
     train(file_path, percentage, outputDir, lb)

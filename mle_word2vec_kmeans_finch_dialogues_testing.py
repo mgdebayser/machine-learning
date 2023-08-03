@@ -148,7 +148,7 @@ if __name__ == "__main__":
     print("\n **************** Started *************************** \n")
 
     file_path="data/finch/finch_multi_dialogue.txt"
-    wordvecPath = "data/finch/exec_1691001610269.7148/finch_multi_dialogue.txt-wordvec.pkl"
-    kmeansPath = "data/finch/exec_1691001610269.7148/finch_multi_dialogue.txt-kmeans.pkl"
-    probs_filepath = "data/finch/exec_1691001610269.7148/finch_multi_dialogue-probs.dat"
+    wordvecPath = "data/finch/models_1691070596018.2942/finch_multi_dialogue.txt-wordvec.pkl"
+    kmeansPath = "data/finch/models_1691070596018.2942/finch_multi_dialogue.txt-kmeans.pkl"
+    probs_filepath = "data/finch/models_1691070596018.2942/finch_multi_dialogue-probs.dat"
     test(file_path, percentage, lb, wordvecPath, kmeansPath, probs_filepath)
