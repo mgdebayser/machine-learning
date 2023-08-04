@@ -1,6 +1,10 @@
 # machine-learning
 
-Predição de turnos de interação em diálogos conversacionais utilizando os seguintes algoritmos de aprendizagem de máquina:
+A predição de turnos de interação em diálogos conversacionais é importanto em sistemas conversacionais nos quais
+existem mais de 2 participantes na conversa. O chatbot precisa saber o momento correto de interagir.
+Este repositório contém uma solução de aprendizagem de interação por turnos utilizando diálogos de conversação.
+
+A solução utiliza os seguintes algoritmos de aprendizagem de máquina:
 
 - MLE: Maximum Likelihood Estimation = Máxima Verossimilhança
 https://pt.wikipedia.org/wiki/M%C3%A1xima_verossimilhan%C3%A7a
@@ -19,7 +23,7 @@ Artigo: https://arxiv.org/pdf/1907.02090.pdf
 
 ![Arquitetura utilizando MLE](/img/mle-kmeans-dialogues.png)
 
-Este repositório contém diálogos de entre usuários humanos, um chatbot mediador e chatbots de recomendação de opções de investimento (poupança, tesouro direto e CDB). O sistema está descrito no artigo.
+Como exemplo, este repositório contém diálogos de entre usuários humanos, um chatbot mediador e chatbots de recomendação de opções de investimento (poupança, tesouro direto e CDB). O sistema está descrito no artigo.
 
 Para treinar os modelos de MLE, utilize o seguinte script:
 ```
