@@ -19,6 +19,8 @@ Artigo: https://arxiv.org/pdf/1907.02090.pdf
 
 ![Arquitetura utilizando MLE](/img/mle-kmeans-dialogues.png)
 
+Este repositório contém diálogos de entre usuários humanos, um chatbot mediador e chatbots de recomendação de opções de investimento (poupança, tesouro direto e CDB). O sistema está descrito no artigo.
+
 Para treinar os modelos de MLE, utilize o seguinte script:
 ```
 python mle_word2vec_kmeans_finch_dialogues.py
