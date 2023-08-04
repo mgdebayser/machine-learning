@@ -1,6 +1,6 @@
 # machine-learning
 
-A predição de turnos de interação em diálogos conversacionais é importanto em sistemas conversacionais nos quais
+A predição de turnos de interação em diálogos conversacionais é importante em sistemas conversacionais nos quais
 existem mais de 2 participantes na conversa. O chatbot precisa saber o momento correto de interagir.
 Este repositório contém uma solução de aprendizagem de interação por turnos utilizando diálogos de conversação.
 
